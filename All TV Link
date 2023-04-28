@@ -29,7 +29,7 @@ https://prod-sports-south-gm.jiocinema.com/bpk-tv/M2_IPL23_Eng_UHD_IDC_BTS/Fallb
 https://prod-sports-south-gm.jiocinema.com/bpk-tv/M2_IPL23_Hin_UHD_IDC_BTS/Fallback/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1459e920-e00f-11ed-a428-35bb1849b79a/4640028/825920159.jpg" group-title="XIO Cinema Match 2", XIO Cinema (BENGALI-4K) M2
 https://prod-sports-south-gm.jiocinema.com/bpk-tv/M2_IPL23_Ben_UHD_IDC_BTS/Fallback/index.m3u8
-#EXTM3U url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/aioepg.xml.gz"
+url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/aioepg.xml.gz"
 
 #EXTINF:-1 tvg-id="sony1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Sony",SET HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
@@ -131,3 +131,39 @@ http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/261
 http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/296763
 #EXTINF: -1 tvg-logo="https://aimages.willow.tv/willowhd_h40px.png", Willow HD
 http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/298327
+#EXTINF: -1 tvg-logo="https://te.legra.ph/file/12a860dbdec4d78fea283.jpg" group-title="Discovery", Denver Is Alive
+https://denveriptv.ml/Intro/intro.m3u8
+#EXTINF: -1 tvg-id="567" tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg" group-title="Discovery", Animal Planet English
+https://denveriptv.ml/discovery/animal_planet_hd_english.m3u8
+#EXTINF: -1 tvg-id="566" tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg" group-title="Discovery", Animal Planet Hindi
+https://denveriptv.ml/discovery/animal_planet_hd_hindi.m3u8
+#EXTINF: -1 tvg-id="242" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-874-j5mcolzc-v1/imageContent-874-j5mcolzc-m1.jpg" group-title="Discovery", Discovery English HD
+https://denveriptv.ml/discovery/discovery_hd_english.m3u8
+#EXTINF: -1 tvg-id="242" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-874-j5mcolzc-v1/imageContent-874-j5mcolzc-m1.jpg" group-title="Discovery", Discovery Hindi HD
+https://denveriptv.ml/discovery/discovery_hd_hindi.m3u8
+#EXTINF: -1 tvg-id="554" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkRvcIKZHrAQWPBYj4gmqb42jnU9yP1m2omg&usqp=CAU" group-title="Discovery", Discovery Kids
+https://denveriptv.ml/discovery/discovery_kids_hindi.m3u8
+#EXTINF: -1 tvg-id="568" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-367-j5jo9i3s-v1/imageContent-367-j5jo9i3s-m1.jpg" group-title="Discovery", Discovery Science English
+https://denveriptv.ml/discovery/discovery_science_english.m3u8
+#EXTINF: -1 tvg-id="568" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-367-j5jo9i3s-v1/imageContent-367-j5jo9i3s-m1.jpg" group-title="Discovery", Discovery Science Hindi
+https://denveriptv.ml/discovery/discovery_science_hindi.m3u8
+#EXTINF: -1 tvg-id="541" tvg-logo="https://te.legra.ph/file/b8670a893a66fa1b5de93.jpg" group-title="Discovery", Discovery Turbo
+https://denveriptv.ml/discovery/discovery_turbo.m3u8
+#EXTINF: -1 tvg-chno="8" tvg-logo="https://te.legra.ph/file/5a424d994803247feed18.png" group-title="Discovery", DMAX HD
+https://denveriptv.ml/discovery/dmax_hd.m3u8
+#EXTINF: -1 tvg-id="875" tvg-logo="https://te.legra.ph/file/588fbda0e490e38dbe544.png" group-title="Discovery", Eurosport HD
+https://denveriptv.ml/discovery/eurosport_hd_english.m3u8
+#EXTINF: -1 tvg-chno="11" tvg-logo="https://te.legra.ph/file/cdc56626013f9d5b1c2ba.png" group-title="Discovery", Food Network English
+https://denveriptv.ml/discovery/food_network_hd_english.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAW6TPl2g34-F2So-4sd_M8o2htuwycdExXg&usqp=CAU" group-title="Discovery", HGTV English HD
+https://denveriptv.ml/discovery/hgtv_hd_english.m3u8
+#EXTINF: -1 tvg-id="527" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdXeYW_2A057qaGEDVGJNnMwegNuvHLtzAA&usqp=CAU" group-title="Discovery", ID English HD
+https://denveriptv.ml/discovery/id_hd_english.m3u8
+#EXTINF: -1 tvg-id="527" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdXeYW_2A057qaGEDVGJNnMwegNuvHLtzAA&usqp=CAU" group-title="Discovery", ID Hindi HD
+https://denveriptv.ml/discovery/id_hd_hindi.m3u8
+#EXTINF: -1 tvg-chno="9" tvg-logo="https://te.legra.ph/file/6db24ed6ea9959c51d758.png" group-title="Discovery", TRVL English HD
+https://denveriptv.ml/discovery/trvl_channel_hd_english.m3u8
+#EXTINF: -1 tvg-id="574" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpTlPGk7AcvhW10ei1PJ3iILyOcMwHEgDxw&usqp=CAU" group-title="Discovery", TLC English HD
+https://denveriptv.ml/discovery/tlc_hd_english.m3u8
+#EXTINF: -1 tvg-id="571" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpTlPGk7AcvhW10ei1PJ3iILyOcMwHEgDxw&usqp=CAU" group-title="Discovery", TLC Hindi HD
+https://denveriptv.ml/discovery/tlc_hd_hindi.m3u8
