@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1,& pictures
+http://202.125.144.115:8000/play/a018/index.m3u8
+#EXTINF:-1,&flix
+http://202.125.144.115:8000/play/a004/index.m3u8
+#EXTINF:-1,Animal planet
+http://202.125.144.115:8000/play/a015/index.m3u8
+#EXTINF:-1,Bindas
+http://202.125.144.115:8000/play/a009/index.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://202.125.144.115:8000/play/a00e/index.m3u8
+#EXTINF:-1,Colors Rishtey
+http://202.125.144.115:8000/play/a008/index.m3u8
+#EXTINF:-1,Discovery  hd
+http://202.125.144.115:8000/play/a00o/index.m3u8
+#EXTINF:-1,Disney
+http://202.125.144.115:8000/play/a00h/index.m3u8
+#EXTINF:-1,Dk
+http://202.125.144.115:8000/play/a00j/index.m3u8
+#EXTINF:-1,History tv18
+http://202.125.144.115:8000/play/a017/index.m3u8
+#EXTINF:-1,MOVIES NOW
+http://202.125.144.115:8000/play/a00k/index.m3u8
+#EXTINF:-1,NICK
+http://202.125.144.115:8000/play/a00f/index.m3u8
+#EXTINF:-1,National  geographic
+http://202.125.144.115:8000/play/a00n/index.m3u8
+#EXTINF:-1,National geographic wild
+http://202.125.144.115:8000/play/a00w/index.m3u8
+#EXTINF:-1,SONY
+http://202.125.144.115:8000/play/a005/index.m3u8
+#EXTINF:-1,STAR  ustav
+http://202.125.144.115:8000/play/a007/index.m3u8
+#EXTINF:-1,STAR GOLD
+http://202.125.144.115:8000/play/a016/index.m3u8
+#EXTINF:-1,STAR GOLD 2
+http://202.125.144.115:8000/play/a00y/index.m3u8
+#EXTINF:-1,STAR MOVIES select
+http://202.125.144.115:8000/play/a00m/index.m3u8
+#EXTINF:-1,STARPLUS
+http://202.125.144.115:8000/play/a001/index.m3u8
+#EXTINF:-1,Sony Pix
+http://202.125.144.115:8000/play/a019/index.m3u8
+#EXTINF:-1,UTV Action
+http://202.125.144.115:8000/play/a00z/index.m3u8
+#EXTINF:-1,ZEE CINEMA
+http://202.125.144.115:8000/play/a014/index.m3u8
+#EXTINF:-1,ZEE bollywood
+http://202.125.144.115:8000/play/a00x/index.m3u8
+#EXTINF:-1,ZEETV
+http://202.125.144.115:8000/play/a002/index.m3u8
+#EXTINF:-1,ZOOM
+http://202.125.144.115:8000/play/a013/index.m3u8
+#EXTINF:-1,big magic
+http://202.125.144.115:8000/play/a00b/index.m3u8
+#EXTINF:-1,colors
+http://202.125.144.115:8000/play/a003/index.m3u8
+#EXTINF:-1,hungama
+http://202.125.144.115:8000/play/a00g/index.m3u8
+#EXTINF:-1,pogo
+http://202.125.144.115:8000/play/a00i/index.m3u8
+#EXTINF:-1,sony ten 1 HD
+http://202.125.144.115:8000/play/a00p/index.m3u8
+#EXTINF:-1,sony ten 2
+http://202.125.144.115:8000/play/a00t/index.m3u8
+#EXTINF:-1,sony ten 5
+http://202.125.144.115:8000/play/a00u/index.m3u8
+#EXTINF:-1,star movies hd
+http://202.125.144.115:8000/play/a00l/index.m3u8
+#EXTINF:-1,star sports 1
+http://202.125.144.115:8000/play/a00r/index.m3u8
+#EXTINF:-1,star sports 1hindi
+http://202.125.144.115:8000/play/a00v/index.m3u8
+#EXTINF:-1,star sports 2
+http://202.125.144.115:8000/play/a00s/index.m3u8
+#EXTINF:-1,star sports select hd1
+http://202.125.144.115:8000/play/a01a/index.m3u8
+#EXTINF:-1,star sports select hd2
+http://202.125.144.115:8000/play/a01b/index.m3u8
+#EXTINF:-1,zee anmol
+http://202.125.144.115:8000/play/a00a/index.m3u8
