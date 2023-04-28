@@ -122,4 +122,12 @@ https://dai.google.com/linear/hls/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 #EXTINF:-1 tvg-id="sony1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sony",Sony TEN 4 HD
 https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sony",Sony TEN 5 HD
-https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8 
+#EXTINF: -1 tvg-logo="https://www.astropackage.com.my/wp-content/uploads/2016/01/Astro-Cricket-Ch838.png", Astro cricket
+http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/157565
+#EXTINF: -1 tvg-logo="https://www.donasport.com/slike/sky-sports-mix.jpg", Sky Sports Mix
+http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/261
+#EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEictoSOcIguGem22nXe1rzFzUhvtyjAlkz8HoQTe4buKSDPtR6dapaKDtkWMMJsIcDbOoNUNarzNzLDytUeEaVjByjQDSaxHgJ92Sdll-ElTYiVQltpNjYdsp2tG57DJA9xiFY9cflPZW8WOVRhb2Nz_VUoXlUfyg36uKuiMtQXhGopfZWi5H7boc8r2w/s16000/download.png", Willow Xtra
+http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/296763
+#EXTINF: -1 tvg-logo="https://aimages.willow.tv/willowhd_h40px.png", Willow HD
+http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/298327
