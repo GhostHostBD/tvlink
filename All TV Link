@@ -131,8 +131,8 @@ http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/261
 http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/296763
 #EXTINF: -1 tvg-logo="https://aimages.willow.tv/willowhd_h40px.png", Willow HD
 http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/298327
-#EXTINF: -1 tvg-logo="https://te.legra.ph/file/12a860dbdec4d78fea283.jpg" group-title="Discovery", Denver Is Alive
-https://denveriptv.ml/Intro/intro.m3u8
+
+
 #EXTINF: -1 tvg-id="567" tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg" group-title="Discovery", Animal Planet English
 https://denveriptv.ml/discovery/animal_planet_hd_english.m3u8
 #EXTINF: -1 tvg-id="566" tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg" group-title="Discovery", Animal Planet Hindi
