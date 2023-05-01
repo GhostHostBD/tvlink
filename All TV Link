@@ -131,6 +131,14 @@ http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/261
 http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/296763
 #EXTINF: -1 tvg-logo="https://aimages.willow.tv/willowhd_h40px.png", Willow HD
 http://iptvtree.net:8080/asadman2022/63ZFJytXY3oyqe8z/298327
+#EXTI#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/eb7cafa0-e5e3-11ed-9a6c-7dd86f498512/4674803/831402826.png" group-title="CRICKET 24/7", Astro Cricket HD
+http://hostengine.live/live/wrecks82/habsiptv82/231004.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/eb7cafa0-e5e3-11ed-9a6c-7dd86f498512/4674803/831402827.jpeg" group-title="CRICKET 24/7", Willow Cricket HD
+http://hostengine.live/live/wrecks82/habsiptv82/54805.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/eb7cafa0-e5e3-11ed-9a6c-7dd86f498512/4674803/831402828.png" group-title="CRICKET 24/7", Willow Xtra
+http://hostengine.live/live/wrecks82/habsiptv82/54844.m3u8
+#EXTINF: -1 tvg-name="ATN Afghanistan " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawQPbNCu0SXio8tYArhAPuMyUjS_V_WB3mA&usqp=CAU" group-title="CRICKET 24/7", ATN Afghanistan
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
 
 #EXTINF: -1 tvg-id="567" tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg" group-title="Discovery", Animal Planet English
