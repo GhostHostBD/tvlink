@@ -257,3 +257,5 @@ http://202.125.144.115:8000/play/a01b/index.m3u8
 #EXTINF:-1,zee anmol
 http://202.125.144.115:8000/play/a00a/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://aimages.willow.tv/willowhd_h40px.png", Willow HD
+http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/willow-cric/chunks.m3u8 
