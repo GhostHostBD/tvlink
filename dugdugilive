@@ -19,8 +19,6 @@ http://tv.dugdugilive.com:8080/0ne$ky23/PTV/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
 #EXTINF:-1,Discovery
 http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/index.m3u8
-
-News
 #EXTINF:-1,Independent TV
 http://tv.dugdugilive.com:8080/0ne$ky23/Independent/index.m3u8
 #EXTINF:-1,DBC News
@@ -39,8 +37,6 @@ http://tv.dugdugilive.com:8080/0ne$ky23/News24/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/bbc/index.m3u8
 #EXTINF:-1,Al Jajira
 http://tv.dugdugilive.com:8080/0ne$ky23/aljajira/index.m3u8
-
-Movies
 #EXTINF:-1,Jalsha Movies
 http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/index.m3u8
 #EXTINF:-1,Zee Bangla Cinema
@@ -71,8 +67,6 @@ http://tv.dugdugilive.com:8080/0ne$ky23/AndFlix/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/AndPrive/index.m3u8
 #EXTINF:-1,HBO
 http://tv.dugdugilive.com:8080/0ne$ky23/HBO/index.m3u8
-
-Entertainment
 #EXTINF:-1,RTV
 http://tv.dugdugilive.com:8080/0ne$ky23/RTV/index.m3u8
 #EXTINF:-1,Channel i
@@ -135,8 +129,6 @@ http://tv.dugdugilive.com:8080/0ne$ky23/StarBharat/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/AndTV/index.m3u8
 #EXTINF:-1,Zee Bollywood
 http://tv.dugdugilive.com:8080/0ne$ky23/ZBolloyWoord/index.m3u8
-
-Music
 #EXTINF:-1,Gaan Bangla
 http://tv.dugdugilive.com:8080/0ne$ky23/GaanBangla/index.m3u8
 #EXTINF:-1,Sangeet Bangla
@@ -157,8 +149,6 @@ http://tv.dugdugilive.com:8080/0ne$ky23/ZetcE24/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/MTVin/index.m3u8
 #EXTINF:-1,9XM
 http://tv.dugdugilive.com:8080/0ne$ky23/9xM/index.m3u8
-
-Children
 #EXTINF:-1,Nick Bangla
 http://tv.dugdugilive.com:8080/0ne$ky23/NickBN/index.m3u8
 #EXTINF:-1,Cartoon Network
