@@ -30,7 +30,6 @@ https://prod-sports-south-gm.jiocinema.com/bpk-tv/M2_IPL23_Hin_UHD_IDC_BTS/Fallb
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1459e920-e00f-11ed-a428-35bb1849b79a/4640028/825920159.jpg" group-title="XIO Cinema Match 2", XIO Cinema (BENGALI-4K) M2
 https://prod-sports-south-gm.jiocinema.com/bpk-tv/M2_IPL23_Ben_UHD_IDC_BTS/Fallback/index.m3u8
 url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/aioepg.xml.gz"
-
 #EXTINF:-1 tvg-id="sony1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Sony",SET HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Sony",Sony SAB HD
@@ -75,10 +74,8 @@ https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sony",Sony TEN 5 HD
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-
 #EXTINF:-1 tvg-id="sony" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="Sony",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="sony1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Sony",SET HD
 https://dai.google.com/linear/hls/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
 #EXTINF:-1 tvg-id="sony1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Sony",Sony SAB HD
@@ -139,8 +136,6 @@ http://hostengine.live/live/wrecks82/habsiptv82/54805.m3u8
 http://hostengine.live/live/wrecks82/habsiptv82/54844.m3u8
 #EXTINF: -1 tvg-name="ATN Afghanistan " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawQPbNCu0SXio8tYArhAPuMyUjS_V_WB3mA&usqp=CAU" group-title="CRICKET 24/7", ATN Afghanistan
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
-
-
 #EXTINF: -1 tvg-id="567" tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg" group-title="Discovery", Animal Planet English
 https://denveriptv.ml/discovery/animal_planet_hd_english.m3u8
 #EXTINF: -1 tvg-id="566" tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg" group-title="Discovery", Animal Planet Hindi
@@ -175,7 +170,6 @@ https://denveriptv.ml/discovery/trvl_channel_hd_english.m3u8
 https://denveriptv.ml/discovery/tlc_hd_english.m3u8
 #EXTINF: -1 tvg-id="571" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpTlPGk7AcvhW10ei1PJ3iILyOcMwHEgDxw&usqp=CAU" group-title="Discovery", TLC Hindi HD
 https://denveriptv.ml/discovery/tlc_hd_hindi.m3u8
-
 #EXTINF:-1,& pictures
 http://202.125.144.115:8000/play/a018/index.m3u8
 #EXTINF:-1,&flix
@@ -256,11 +250,8 @@ http://202.125.144.115:8000/play/a01a/index.m3u8
 http://202.125.144.115:8000/play/a01b/index.m3u8
 #EXTINF:-1,zee anmol
 http://202.125.144.115:8000/play/a00a/index.m3u8
-
 #EXTINF: -1 tvg-logo="https://aimages.willow.tv/willowhd_h40px.png", Willow HD
 http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/willow-cric/chunks.m3u8
-
-Sports
 #EXTINF:-1,T Sports
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
 #EXTINF:-1,Live Sports
@@ -279,12 +270,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/PTV/index.m3u8
 #EXTINF:-1,Gazy TV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
-
-Documentary
 #EXTINF:-1,Discovery
 http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/index.m3u8
-
-News
 #EXTINF:-1,Independent TV
 http://tv.dugdugilive.com:8080/0ne$ky23/Independent/index.m3u8
 #EXTINF:-1,DBC News
@@ -303,8 +290,6 @@ http://tv.dugdugilive.com:8080/0ne$ky23/News24/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/bbc/index.m3u8
 #EXTINF:-1,Al Jajira
 http://tv.dugdugilive.com:8080/0ne$ky23/aljajira/index.m3u8
-
-Movies
 #EXTINF:-1,Jalsha Movies
 http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/index.m3u8
 #EXTINF:-1,Zee Bangla Cinema
@@ -335,8 +320,6 @@ http://tv.dugdugilive.com:8080/0ne$ky23/AndFlix/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/AndPrive/index.m3u8
 #EXTINF:-1,HBO
 http://tv.dugdugilive.com:8080/0ne$ky23/HBO/index.m3u8
-
-Entertainment
 #EXTINF:-1,RTV
 http://tv.dugdugilive.com:8080/0ne$ky23/RTV/index.m3u8
 #EXTINF:-1,Channel i
@@ -399,8 +382,6 @@ http://tv.dugdugilive.com:8080/0ne$ky23/StarBharat/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/AndTV/index.m3u8
 #EXTINF:-1,Zee Bollywood
 http://tv.dugdugilive.com:8080/0ne$ky23/ZBolloyWoord/index.m3u8
-
-Music
 #EXTINF:-1,Gaan Bangla
 http://tv.dugdugilive.com:8080/0ne$ky23/GaanBangla/index.m3u8
 #EXTINF:-1,Sangeet Bangla
@@ -421,8 +402,6 @@ http://tv.dugdugilive.com:8080/0ne$ky23/ZetcE24/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/MTVin/index.m3u8
 #EXTINF:-1,9XM
 http://tv.dugdugilive.com:8080/0ne$ky23/9xM/index.m3u8
-
-Children
 #EXTINF:-1,Nick Bangla
 http://tv.dugdugilive.com:8080/0ne$ky23/NickBN/index.m3u8
 #EXTINF:-1,Cartoon Network
