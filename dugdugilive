@@ -1,6 +1,6 @@
 #EXTM3U
 
-Sports
+#Sports
 #EXTINF:-1,T Sports
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
 #EXTINF:-1,Live Sports
@@ -20,7 +20,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/PTV/index.m3u8
 #EXTINF:-1,Gazy TV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
 
-Documentary
+#Documentary
 #EXTINF:-1,Discovery
 http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/index.m3u8
 
