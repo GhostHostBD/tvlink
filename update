@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1,Nick Bangla
-http://tv.dugdugilive.com:8080/0ne$ky23/NickBN/index.m3u8
 #EXTINF:-1,Star Sports
 http://freeiptv25@dpny5.1234.uno:6061/starsports1/index.m3u8
 #EXTINF:-1,GTV Ayna
 https://tvs1.aynaott.com/sspts1/index.m3u8?hdnts=st=1693995654~exp=1694038854~acl=/*~data=103.159.255.244-WEB~hmac=be312db30c21f7d8ccaf39e145df8f33b54f7f72c849a60298a9b9a39644258a
+#EXTINF:-1,Astro
+http://live.himel-himu.tk/Astro-Cricket-HD/hls/Himel-Op.m3u8?key=sports-op
+#EXTINF:-1,Star Sports
+https://crichdvipphp.tahsin-ahmedahm.repl.co/crichdvipp/play.php?id=star1in
+#EXTINF:-1,Toffee
+https://vsd128.mycdn.me/hls/5248026282615.m3u8/sig/2Jmx_y7Z9yw/expires/1694075152461/srcIp/103.155.118.209/urls/45.136.20.58/clientType/0/srcAg/CHROME/mid/6636234546807/video.m3u8?p
+#EXTINF:-1,PTV
+http://103.141.2.38/hls/ptv.m3u8
