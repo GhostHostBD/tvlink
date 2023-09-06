@@ -1,0 +1,169 @@
+#EXTM3U
+
+Sports
+#EXTINF:-1,T Sports
+http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
+#EXTINF:-1,Live Sports
+http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/index.m3u8
+#EXTINF:-1,Sony Six
+http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/index.m3u8
+#EXTINF:-1,Sony Ten 1
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/index.m3u8
+#EXTINF:-1,Sony Ten 2
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/index.m3u8
+#EXTINF:-1,Sony Ten 3
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/index.m3u8
+#EXTINF:-1,Star Sports 2
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/index.m3u8
+#EXTINF:-1,PTV
+http://tv.dugdugilive.com:8080/0ne$ky23/PTV/index.m3u8
+#EXTINF:-1,Gazy TV
+http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
+
+Documentary
+#EXTINF:-1,Discovery
+http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/index.m3u8
+
+News
+#EXTINF:-1,Independent TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Independent/index.m3u8
+#EXTINF:-1,DBC News
+http://tv.dugdugilive.com:8080/0ne$ky23/DBC/index.m3u8
+#EXTINF:-1,Ekattor TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/index.m3u8
+#EXTINF:-1,Somoy News
+http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/index.m3u8
+#EXTINF:-1,ATN News
+http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/index.m3u8
+#EXTINF:-1,Channel 24
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/index.m3u8
+#EXTINF:-1,News 24
+http://tv.dugdugilive.com:8080/0ne$ky23/News24/index.m3u8
+#EXTINF:-1,BBC
+http://tv.dugdugilive.com:8080/0ne$ky23/bbc/index.m3u8
+#EXTINF:-1,Al Jajira
+http://tv.dugdugilive.com:8080/0ne$ky23/aljajira/index.m3u8
+
+Movies
+#EXTINF:-1,Jalsha Movies
+http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/index.m3u8
+#EXTINF:-1,Zee Bangla Cinema
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBnCinema/index.m3u8
+#EXTINF:-1,Zee Cinema
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/index.m3u8
+#EXTINF:-1,& Pictures
+http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/index.m3u8
+#EXTINF:-1,Sony Max
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/index.m3u8
+#EXTINF:-1,Star Gold
+http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/index.m3u8
+#EXTINF:-1,Rishtey Cineplex
+http://tv.dugdugilive.com:8080/0ne$ky23/CinePlex/index.m3u8
+#EXTINF:-1,B4U Movies
+http://tv.dugdugilive.com:8080/0ne$ky23/B4Umovies/index.m3u8
+#EXTINF:-1,Bflix Movies
+http://tv.dugdugilive.com:8080/0ne$ky23/bFlix/index.m3u8
+#EXTINF:-1,9x Jalwa
+http://tv.dugdugilive.com:8080/0ne$ky23/9xjalwa/index.m3u8
+#EXTINF:-1,Sony Pix
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyPix/index.m3u8
+#EXTINF:-1,Star Movies
+http://tv.dugdugilive.com:8080/0ne$ky23/StarMovies/index.m3u8
+#EXTINF:-1,& Flix
+http://tv.dugdugilive.com:8080/0ne$ky23/AndFlix/index.m3u8
+#EXTINF:-1,& Prive
+http://tv.dugdugilive.com:8080/0ne$ky23/AndPrive/index.m3u8
+#EXTINF:-1,HBO
+http://tv.dugdugilive.com:8080/0ne$ky23/HBO/index.m3u8
+
+Entertainment
+#EXTINF:-1,RTV
+http://tv.dugdugilive.com:8080/0ne$ky23/RTV/index.m3u8
+#EXTINF:-1,Channel i
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/index.m3u8
+#EXTINF:-1,Bangla Vision
+http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/index.m3u8
+#EXTINF:-1,NTV
+http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
+#EXTINF:-1,SA TV
+http://tv.dugdugilive.com:8080/0ne$ky23/satv/index.m3u8
+#EXTINF:-1,Channel 9
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel9/index.m3u8
+#EXTINF:-1,Deepto TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/index.m3u8
+#EXTINF:-1,Maasranga TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Massranga/index.m3u8
+#EXTINF:-1,Nagorik TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Nagorik/index.m3u8
+#EXTINF:-1,Bangla TV
+http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/index.m3u8
+#EXTINF:-1,Jamuna TV
+http://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/index.m3u8
+#EXTINF:-1,ATN Bangla
+http://tv.dugdugilive.com:8080/0ne$ky23/AtnBangla/index.m3u8
+#EXTINF:-1,Boishakhi TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Boishakhi/index.m3u8
+#EXTINF:-1,Ekushey TV
+http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/index.m3u8
+#EXTINF:-1,Asian TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Asian/index.m3u8
+#EXTINF:-1,Ananda TV
+http://tv.dugdugilive.com:8080/0ne$ky23/AnandaTV/index.m3u8
+#EXTINF:-1,Desh TV
+http://tv.dugdugilive.com:8080/0ne$ky23/DeshTV/index.m3u8
+#EXTINF:-1,My TV
+http://tv.dugdugilive.com:8080/0ne$ky23/mytv/index.m3u8
+#EXTINF:-1,Mohona TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Mohona/index.m3u8
+#EXTINF:-1,ATN Islamic
+http://tv.dugdugilive.com:8080/0ne$ky23/ATNIslamic/index.m3u8
+#EXTINF:-1,BTV
+http://tv.dugdugilive.com:8080/0ne$ky23/BTV/index.m3u8
+#EXTINF:-1,Zee Bangla
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/index.m3u8
+#EXTINF:-1,Star Jalsha
+http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/index.m3u8
+#EXTINF:-1,Colors Bangla
+http://tv.dugdugilive.com:8080/0ne$ky23/colors-bangla/index.m3u8
+#EXTINF:-1,Star Plus
+http://tv.dugdugilive.com:8080/0ne$ky23/StarPlus/index.m3u8
+#EXTINF:-1,Colors
+http://tv.dugdugilive.com:8080/0ne$ky23/Colors/index.m3u8
+#EXTINF:-1,Sony TV
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/index.m3u8
+#EXTINF:-1,Zee TV
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeTV/index.m3u8
+#EXTINF:-1,Star Bharat
+http://tv.dugdugilive.com:8080/0ne$ky23/StarBharat/index.m3u8
+#EXTINF:-1,& TV
+http://tv.dugdugilive.com:8080/0ne$ky23/AndTV/index.m3u8
+#EXTINF:-1,Zee Bollywood
+http://tv.dugdugilive.com:8080/0ne$ky23/ZBolloyWoord/index.m3u8
+
+Music
+#EXTINF:-1,Gaan Bangla
+http://tv.dugdugilive.com:8080/0ne$ky23/GaanBangla/index.m3u8
+#EXTINF:-1,Sangeet Bangla
+http://tv.dugdugilive.com:8080/0ne$ky23/sangeetbangla/index.m3u8
+#EXTINF:-1,Dhoom Music
+http://tv.dugdugilive.com:8080/0ne$ky23/Dhoom/index.m3u8
+#EXTINF:-1,Music Express
+http://tv.dugdugilive.com:8080/0ne$ky23/DilSe/index.m3u8
+#EXTINF:-1,Hungama Music
+http://tv.dugdugilive.com:8080/0ne$ky23/Kadak/index.m3u8
+#EXTINF:-1,B4U Music
+http://tv.dugdugilive.com:8080/0ne$ky23/B4U/index.m3u8
+#EXTINF:-1,Zoom Music
+http://tv.dugdugilive.com:8080/0ne$ky23/Zoom/index.m3u8
+#EXTINF:-1,Zee ETC
+http://tv.dugdugilive.com:8080/0ne$ky23/ZetcE24/index.m3u8
+#EXTINF:-1,Music Masti
+http://tv.dugdugilive.com:8080/0ne$ky23/MTVin/index.m3u8
+#EXTINF:-1,9XM
+http://tv.dugdugilive.com:8080/0ne$ky23/9xM/index.m3u8
+
+Children
+#EXTINF:-1,Nick Bangla
+http://tv.dugdugilive.com:8080/0ne$ky23/NickBN/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://tv.dugdugilive.com:8080/0ne$ky23/Cartoon/index.m3u8
