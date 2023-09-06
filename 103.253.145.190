@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",Sky sports Action
+http://103.253.145.190:3911/?id=skysact
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",Sky sports tennis
+http://103.253.145.190:3911/?id=skysare
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",Super sports tennis
+http://103.253.145.190:3911/?id=supertennis
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",Super sports Action
+http://103.253.145.190:3911/?id=superspaction
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",TSN 1
+http://103.253.145.190:3911/?id=tsn1ca
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",TSN 3
+http://103.253.145.190:3911/?id=tsn3ca
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",TSN 4
+http://103.253.145.190:3911/?id=tsn4ca
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",Willow HD
+http://103.253.145.190:3911/?id=willowusa
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",PTV Sports
+http://103.253.145.190:3911/?id=ptvpk
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",Super sports Cricket
+http://103.253.145.190:3911/?id=superspcric
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",Star Sports 1
+http://103.253.145.190:3911/?id=star1in
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",VIP Thriller 1
+http://103.253.145.190:3911/?id=sonysixendia
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",Sky sports Mail
+http://103.253.145.190:3911/?id=skysme
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",SKY sports Cricket
+http://103.253.145.190:3911/?id=skyscric
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",SKY sports Football
+http://103.253.145.190:3911/?id=skysfott
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",SKY sports Premier Leauge
+http://103.253.145.190:3911/?id=skysprem
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",TNT Sports 1
+http://103.253.145.190:3911/?id=bbtsp1
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",TNT Sport 2
+http://103.253.145.190:3911/?id=bbtsp2
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",TNT Sport 4
+http://103.253.145.190:3911/?id=bbtespn
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",TNT Sport 3
+http://103.253.145.190:3911/?id=bbtsp3
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",ViaPlay Sports1
+http://103.253.145.190:3911/?id=viaplaysp1
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",Premier Sports2
+http://103.253.145.190:3911/?id=viaplaysp2
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",ViaPlay Extra
+http://103.253.145.190:3911/?id=viaplayextra
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",Sony Sports1
+http://103.253.145.190:3911/?id=ten1endia
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",Sony Liv
+http://103.253.145.190:3911/?id=ten2endia
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",Euro sports 1
+http://103.253.145.190:3911/?id=eurosp1
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",Euro sports 2
+http://103.253.145.190:3911/?id=eurosp2
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",Channel 89
+http://103.253.145.190:3911/?id=spch89
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",Super Sports LaLiga
+http://103.253.145.190:3911/?id=viaplaysp1
+#EXTINF:-1 group-title="BDIX TV 24 Sports" tvg-logo="https://trickbd.com/wp-content/uploads/2015/08/bdixtv24.jpg",Astro Cricket
+http://103.253.145.190:3911/?id=astrocric
