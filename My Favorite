@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Discovery Science
+https://mhdtvworld.me/delta/discovery/api/Discovery_Science.m3u8
+#EXTINF:-1,Discovery Investigation
+https://mhdtvworld.me/delta/discovery/api/Investigation_Discovery.m3u8
+#EXTINF:-1,Discovery HD
+https://mhdtvworld.me/delta/discovery/api/Discovery_Channel.m3u8
+#EXTINF:-1,Discovery Bangla
+https://mhdtvworld.me/delta/discovery/api/Discovery_Bangla.m3u8
+#EXTINF:-1,Discovery Turbo
+https://mhdtvworld.me/delta/discovery/api/Discovery_Turbo.m3u8
+#EXTINF:-1,Nat Geo
+https://myzee5.xyz/toffee/playlist.php?https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ngc_sd_576/ngc_sd_576.m3u8?bitrate=1000000&channel=ngc_sd_576&gp_id=
+#EXTINF:-1,Nat Geo Wild
+https://myzee5.xyz/toffee/playlist.php?https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ngc_wild_576/ngc_wild_576.m3u8?bitrate=1000000&channel=ngc_wild_576&gp_id=
+#EXTINF:-1,Animal Planet HD
+https://mhdtvworld.me/delta/discovery/api/Animal_Planet.m3u8
+#EXTINF:-1,PTV Sports
+https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/index.m3u8?hdnts=st=1694161892~exp=1694205092~acl=/*~data=118.179.69.241-WEB~hmac=e3967d60faa3837f58d8d538489b5c71154e399437e231fb56b290852f8656d6
+#EXTINF:-1,RTA Sports
+https://hls.rtasport.live/hls/stream.m3u8
+#EXTINF:-1,TSports
+https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1694162444~exp=1694205644~acl=/*~data=118.179.69.241-WEB~hmac=1c19635e7c0c1bb67fe61a563cc1094bfc8d27144887c47ddec225fe6cb8260c
