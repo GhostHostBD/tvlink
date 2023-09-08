@@ -15,3 +15,5 @@ http://103.141.2.38/hls/ptv.m3u8
 https://hiskidxd.com/T5/JIOTV/app/play.php?cid=Zee_TV_HD&id=167
 #EXTINF:-1,Jio 2
 https://live.bongobd.com/hls/8w6yOhqEs6HMStRuUq6m9g/1694108908/zee_bangla_hi/index.m3u8
+#EXTINF:-1,Jio Sports 2
+https://mhdtv.co.in/jio/play.php?id=1890&c=Jio_Sports_2_HD
