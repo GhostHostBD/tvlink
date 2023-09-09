@@ -1,23 +1,55 @@
 #EXTM3U
 #EXTINF:-1,Star Sports
-http://freeiptv25@dpny5.1234.uno:6061/starsports1/index.m3u8
-#EXTINF:-1,GTV Ayna
-https://tvs1.aynaott.com/sspts1/index.m3u8?hdnts=st=1693995654~exp=1694038854~acl=/*~data=103.159.255.244-WEB~hmac=be312db30c21f7d8ccaf39e145df8f33b54f7f72c849a60298a9b9a39644258a
-#EXTINF:-1,Astro
-http://live.himel-himu.tk/Astro-Cricket-HD/hls/Himel-Op.m3u8?key=sports-op
-#EXTINF:-1,Star Sports
 https://crichdvipphp.tahsin-ahmedahm.repl.co/crichdvipp/play.php?id=star1in
-#EXTINF:-1,Toffee
-https://vsd128.mycdn.me/hls/5248026282615.m3u8/sig/2Jmx_y7Z9yw/expires/1694075152461/srcIp/103.155.118.209/urls/45.136.20.58/clientType/0/srcAg/CHROME/mid/6636234546807/video.m3u8?p
 #EXTINF:-1,PTV
 http://103.141.2.38/hls/ptv.m3u8
-#EXTINF:-1,Jio
-https://hiskidxd.com/T5/JIOTV/app/play.php?cid=Zee_TV_HD&id=167
-#EXTINF:-1,Jio 2
-https://live.bongobd.com/hls/8w6yOhqEs6HMStRuUq6m9g/1694108908/zee_bangla_hi/index.m3u8
-#EXTINF:-1,Jio Sports 2
-https://mhdtv.co.in/jio/play.php?id=1890&c=Jio_Sports_2_HD
 #EXTINF:-1,T Sports
 http://203.80.191.3:8089/jamio/tsportsbd//playlist.m3u8
 #EXTINF:-1,Gazi TV
 http://203.80.191.3:8089/jamio/gazitv//playlist.m3u8
+#EXTINF:-1,Willo TV
+http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/60e1e48b-6e6b-4ea2-9a8b-ce7040c71378.m3u8
+#EXTINF:-1,Sky sports
+http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/7578cc16-1b9f-493e-bc3e-906de9572e5a.m3u8
+#EXTINF:-1,S Cricket
+http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/1c6542f1-dfd5-409f-a202-66dce8330c58.m3u8
+#EXTINF:-1,Tnt sports 1
+http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/2505/index.m3u8
+#EXTINF:-1,Star sports 2
+http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/2507/index.m3u8
+#EXTINF:-1,Rta sports
+https://hls.rtasport.live/hls/stream.m3u8
+#EXTINF:-1,Atn Afganistan
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1,Astro
+https://m2.ballnaja.com:8443/ASTRO_CRICKET/tracks-v1a1/index.m3u8
+#EXTINF:-1,Ptv sports
+http://103.141.2.38/hls/ptv.m3u8
+#EXTINF:-1,ESPN 1
+http://151.248.16.100:4444/ESPN1/index.m3u8
+#EXTINF:-1,ESPN 2
+http://151.248.16.100:4444/ESPN2/index.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://151.248.16.100:4444/Eurosport1/index.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://151.248.16.100:4444/Eurosport2/index.m3u8
+#EXTINF:-1,Arena 
+http://109.200.135.130:8080/arena/index.m3u8
+#EXTINF:-1,Arena hd
+http://109.200.135.130:8080/arena_hd/index.m3u8
+#EXTINF:-1,Match
+http://109.200.135.130:8080/match_hd/index.m3u8
+#EXTINF:-1,4 Kurd
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1,deepto
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
+#EXTINF:-1,Btv
+http://103.230.105.252:1935/live/btv/manifest.mpd
+#EXTINF:-1,Sony Bovies
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
