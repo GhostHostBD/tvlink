@@ -85,7 +85,9 @@ http://humiptv.live:8080/live/0192838773/9948381838/199492.m3u8
 http://humiptv.live:8080/live/0192838773/9948381838/199493.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" group-title="ASIA CUP (2023)",ASTRO CRICKET HD
 http://humiptv.live:8080/live/0192838773/9948381838/200738.m3u8
-#EXTINF:-1,
+#EXTINF:-1,T Sports
+#EXTINF:-1,Mixed 5
+http://10.192.0.3:1001/tv_channel_5/index.m3u8
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
