@@ -5,6 +5,8 @@ https://crichdvipphp.tahsin-ahmedahm.repl.co/crichdvipp/play.php?id=star1in
 http://103.141.2.38/hls/ptv.m3u8
 #EXTINF:-1,T Sports
 http://203.80.191.3:8089/jamio/tsportsbd//playlist.m3u8
+#EXTINF:-1,T Sports
+http://10.192.0.3:1001/tv_channel_5/index.m3u8
 #EXTINF:-1,Gazi TV
 http://203.80.191.3:8089/jamio/gazitv//playlist.m3u8
 #EXTINF:-1,Willo TV
