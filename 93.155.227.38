@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,ARENA SPORTS 1
+http://93.155.227.38:90/m3u8/arenasport1.m3u8
+#EXTINF:-1,ARENA SPORTS 2
+http://93.155.227.38:90/m3u8/arenasport2.m3u8
+#EXTINF:-1,ARENA SPORTS 3
+http://93.155.227.38:90/m3u8/arenasport3.m3u8
+#EXTINF:-1,ARENA SPORTS 4
+http://93.155.227.38:90/m3u8/arenasport4.m3u8
+#EXTINF:-1,ARENA SPORTS 5
+http://93.155.227.38:90/m3u8/arenasport5.m3u8
+#EXTINF:-1,ARENA SPORTS 6
+http://185.85.152.220:9901/arenasport6/playlist.m3u8
