@@ -2,18 +2,18 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:47710
 #EXT-X-TARGETDURATION:10
-#EXTINF:10.000, ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47710.ts
-#EXTINF:10.000, ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47711.ts
-#EXTINF:10.000, ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47712.ts
-#EXTINF:6.320, ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47713.ts
-#EXTINF:10.000, ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47714.ts
-#EXTINF:10.000, ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47715.ts
-#EXTINF:6.600, ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47716.ts
-#EXTINF:5.360, ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47717.ts
-#EXTINF:5.360, ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47718.ts
-#EXTINF:9.960, ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47719.ts
-#EXTINF:10.000, ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47720.ts
-#EXTINF:10.000, ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47721.ts
-#EXTINF:10.000, ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47722.ts
-#EXTINF:10.000, ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47723.ts
-#EXTINF:10.000, ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47724.ts
+#EXTINF:10.000,ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47710.ts
+#EXTINF:10.000,ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47711.ts
+#EXTINF:10.000,ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47712.ts
+#EXTINF:6.320,ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47713.ts
+#EXTINF:10.000,ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47714.ts
+#EXTINF:10.000,ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47715.ts
+#EXTINF:6.600,ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47716.ts
+#EXTINF:5.360,ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47717.ts
+#EXTINF:5.360,ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47718.ts
+#EXTINF:9.960,ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47719.ts
+#EXTINF:10.000,ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47720.ts
+#EXTINF:10.000,ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47721.ts
+#EXTINF:10.000,ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47722.ts
+#EXTINF:10.000,ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47723.ts
+#EXTINF:10.000,ts.php?url=https://n3.aliflailaaliflaila.com:999/hls/star1in-47724.ts
