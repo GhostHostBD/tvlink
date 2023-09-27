@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1,Sports 18
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Ptv sports
+http://103.141.2.38/hls/ptv.m3u8
+#EXTINF:-1,Astro Cricket
+https://m2.ballnaja.com:8443/ASTRO_CRICKET/tracks-v1a1/index.m3u8
 #EXTINF:-1,Tnt sports 1
 http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/2505/index.m3u8
 #EXTINF:-1,Star sports Select 2
@@ -15,10 +19,6 @@ https://m3.ballnaja.com/live/assp2/chunks.m3u8
 https://m3.ballnaja.com/live/assp3/chunks.m3u8
 #EXTINF:-1,Astro Super Sports 4
 https://m3.ballnaja.com/live/assp4/chunks.m3u8
-#EXTINF:-1,Astro Cricket
-https://m2.ballnaja.com:8443/ASTRO_CRICKET/tracks-v1a1/index.m3u8
-#EXTINF:-1,Ptv sports
-http://103.141.2.38/hls/ptv.m3u8
 #EXTINF:-1,ESPN 1
 http://151.248.16.100:4444/ESPN1/index.m3u8
 #EXTINF:-1,ESPN 2
