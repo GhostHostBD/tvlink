@@ -13,7 +13,7 @@ https://m3.ballnaja.com/live/assp2/chunks.m3u8
 https://m3.ballnaja.com/live/assp3/chunks.m3u8
 #EXTINF:-1,Astro Super Sports 4
 https://m3.ballnaja.com/live/assp4/chunks.m3u8
-#EXTINF:-1,Astro
+#EXTINF:-1,Astro Cricket
 https://m2.ballnaja.com:8443/ASTRO_CRICKET/tracks-v1a1/index.m3u8
 #EXTINF:-1,Ptv sports
 http://103.141.2.38/hls/ptv.m3u8
