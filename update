@@ -45,4 +45,5 @@ https://stream.ayas.ir/hls2/bein2.m3u8
 https://stream.ayas.ir/hls2/bein3.m3u8
 #EXTINF:-1,BEIN sports 4
 https://stream.ayas.ir/hls2/bein4.m3u8
-#EXTINF:-1,
+#EXTINF:-1,Sports 18
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
