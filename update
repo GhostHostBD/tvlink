@@ -1,28 +1,12 @@
 #EXTM3U
-#EXTINF:-1,Star Sports
-https://crichdvipphp.tahsin-ahmedahm.repl.co/crichdvipp/play.php?id=star1in
-#EXTINF:-1,PTV
-http://103.141.2.38/hls/ptv.m3u8
-#EXTINF:-1,T Sports
-http://203.80.191.3:8089/jamio/tsportsbd//playlist.m3u8
-#EXTINF:-1,T Sports
-http://10.192.0.3:1001/tv_channel_5/index.m3u8
-#EXTINF:-1,Gazi TV
-http://203.80.191.3:8089/jamio/gazitv//playlist.m3u8
-#EXTINF:-1,Willo TV
-http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/60e1e48b-6e6b-4ea2-9a8b-ce7040c71378.m3u8
-#EXTINF:-1,Sky sports
-http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/7578cc16-1b9f-493e-bc3e-906de9572e5a.m3u8
-#EXTINF:-1,S Cricket
-http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/1c6542f1-dfd5-409f-a202-66dce8330c58.m3u8
+
+
 #EXTINF:-1,Tnt sports 1
 http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/2505/index.m3u8
 #EXTINF:-1,Star sports 2
 http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/2507/index.m3u8
 #EXTINF:-1,Rta sports
 https://hls.rtasport.live/hls/stream.m3u8
-#EXTINF:-1,Atn Afganistan
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:-1,Astro
 https://m2.ballnaja.com:8443/ASTRO_CRICKET/tracks-v1a1/index.m3u8
 #EXTINF:-1,Ptv sports
@@ -35,62 +19,14 @@ http://151.248.16.100:4444/ESPN2/index.m3u8
 http://151.248.16.100:4444/Eurosport1/index.m3u8
 #EXTINF:-1,EUROSPORT 2
 http://151.248.16.100:4444/Eurosport2/index.m3u8
-#EXTINF:-1,Arena 
-http://109.200.135.130:8080/arena/index.m3u8
-#EXTINF:-1,Arena hd
-http://109.200.135.130:8080/arena_hd/index.m3u8
-#EXTINF:-1,Match
-http://109.200.135.130:8080/match_hd/index.m3u8
 #EXTINF:-1,4 Kurd
 http://51.210.199.23/hls/stream.m3u8
 #EXTINF:-1,deepto
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
 #EXTINF:-1,Btv
 http://103.230.105.252:1935/live/btv/manifest.mpd
-#EXTINF:-1,Sony Bovies
+#EXTINF:-1,Sony Movies
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="ASIA CUP (2023)",STAR SPORTS 1 HD
-http://humiptv.live:8080/live/0192838773/9948381838/199477.m3u8
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="ASIA CUP (2023)",STAR SPORTS 2 HD
-http://humiptv.live:8080/live/0192838773/9948381838/199478.m3u8
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="STAR SPORTS HINDI HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20171105031607" group-title="ASIA CUP (2023)",STAR SPORTS HINDI HD
-http://humiptv.live:8080/live/0192838773/9948381838/199479.m3u8
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 (4K)" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="ASIA CUP (2023)",STAR SPORTS 1 (4K)
-http://humiptv.live:8080/live/0192838773/9948381838/199480.m3u8
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="STAR SPORTS 2 (4K)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="ASIA CUP (2023)",STAR SPORTS 2 (4K)
-http://humiptv.live:8080/live/0192838773/9948381838/199481.m3u8
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="STAR SPORTS HINDI (4K)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20171105031607" group-title="ASIA CUP (2023)",STAR SPORTS HINDI (4K)
-http://humiptv.live:8080/live/0192838773/9948381838/199482.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TEN SPORTS (FHD)" tvg-logo="https://www.pngjoy.com/pngm/372/6897260_indian-cricket-team-logo-ten-sports-logo-png.png" group-title="ASIA CUP (2023)",TEN SPORTS (FHD)
-http://humiptv.live:8080/live/0192838773/9948381838/199483.m3u8
-#EXTINF:-1 tvg-id="ptvsports.pk" tvg-name="PTV SPORTS (FHD)" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="ASIA CUP (2023)",PTV SPORTS (FHD)
-http://humiptv.live:8080/live/0192838773/9948381838/199484.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HUB SPORTS 4 (FHD)" tvg-logo="https://cricketaddictor.com/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-29-at-2.23.26-PM.jpeg" group-title="ASIA CUP (2023)",HUB SPORTS 4 (FHD)
-http://humiptv.live:8080/live/0192838773/9948381838/199485.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY CricLife MAX HD" tvg-logo="https://e.top4top.io/p_24734bapv1.png" group-title="ASIA CUP (2023)",STARZPLAY CricLife MAX HD
-http://humiptv.live:8080/live/0192838773/9948381838/199929.m3u8
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="STARZPLAY CricLife MAX (FHD)" tvg-logo="https://e.top4top.io/p_24734bapv1.png" group-title="ASIA CUP (2023)",STARZPLAY CricLife MAX (FHD)
-http://humiptv.live:8080/live/0192838773/9948381838/199486.m3u8
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="TNT SPORT 1 HD." tvg-logo="http://stariptv.fun/logos/btsport1hd.png" group-title="ASIA CUP (2023)",TNT SPORT 1 HD.
-http://humiptv.live:8080/live/0192838773/9948381838/199487.m3u8
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="TNT SPORT 1 (FHD)" tvg-logo="http://stariptv.fun/logos/btsport1hd.png" group-title="ASIA CUP (2023)",TNT SPORT 1 (FHD)
-http://humiptv.live:8080/live/0192838773/9948381838/199488.m3u8
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="ASIA CUP 2023 (LOW INTERNET)" tvg-logo="https://cricketaddictor.com/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-29-at-2.23.26-PM.jpeg" group-title="ASIA CUP (2023)",ASIA CUP 2023 (LOW INTERNET)
-http://humiptv.live:8080/live/0192838773/9948381838/199489.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 3 (FHD)" tvg-logo="http://stariptv.fun/logos/skysports3.png" group-title="ASIA CUP (2023)",SKY SPORT 3 (FHD)
-http://humiptv.live:8080/live/0192838773/9948381838/199490.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T SPORTS (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="ASIA CUP (2023)",T SPORTS (FHD)
-http://humiptv.live:8080/live/0192838773/9948381838/199491.m3u8
-#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="STAR SPORTS TAMIL 1 (FHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716" group-title="ASIA CUP (2023)",STAR SPORTS TAMIL 1 (FHD)
-http://humiptv.live:8080/live/0192838773/9948381838/199492.m3u8
-#EXTINF:-1 tvg-id="starsports1telugu.in" tvg-name="STAR SPORTS TELUGU 1 (FHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Star_Sports_1_Telugu_HD.png/revision/latest/scale-to-width-down/250?cb=20211017160105" group-title="ASIA CUP (2023)",STAR SPORTS TELUGU 1 (FHD)
-http://humiptv.live:8080/live/0192838773/9948381838/199493.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" group-title="ASIA CUP (2023)",ASTRO CRICKET HD
-http://humiptv.live:8080/live/0192838773/9948381838/200738.m3u8
-#EXTINF:-1,Toffee
-http://live.himel-himu.tk/Toffee-Worldwide/AsiaCup-2023/hls/Himel-Op.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1694270358:KeyName=prod_live_events:Signature=gAIg63iQ1msnSKtBMz8ORNiHaALNJr_5B68q_LEtIzizQvB7wZiIeOJedR9qTED4P3B5zewzv9cXKj6-IeU-Aw&auth=Himel-OP
 #EXTINF:-1,
-#EXTINF:-1,Star Sports 1
-http://103.86.134.34:9981/stream/channel/9ca9680a8c85117ca12ae38a65767c79?ticket=32E648BDA68058E47524F40E45F1C3DD3E057BB3
 #EXTINF:-1,
 #EXTINF:-1,
