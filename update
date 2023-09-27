@@ -33,19 +33,16 @@ https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
 http://103.230.105.252:1935/live/btv/manifest.mpd
 #EXTINF:-1,Sony Movies
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-#EXTINF:-1,True premier football 1
-https://m1.ballnaja.com/live/True_Premier_Football_1/playlist.m3u8
-#EXTINF:-1,True premier football 2
-https://m1.ballnaja.com/live/True_Premier_Football_2/playlist.m3u8
-#EXTINF:-1,True premier football 3
-https://m1.ballnaja.com/live/True_Premier_Football_3/playlist.m3u8
-#EXTINF:-1,True premier football 4
-https://m1.ballnaja.com/live/True_Premier_Football_4/playlist.m3u8
-#EXTINF:-1,True premier football 5
-https://m1.ballnaja.com/live/True_Premier_Football_5/playlist.m3u8
 #EXTINF:-1,Sport 1
 http://stream.bestvideostreaming.is/8796/index.m3u8
 #EXTINF:-1,Rtsh sport
 http://stream.bestvideostreaming.is/8798/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1,BEIN sports 1 
+https://stream.ayas.ir/hls2/bein1.m3u8
+#EXTINF:-1,BEIN sports 2
+https://stream.ayas.ir/hls2/bein2.m3u8
+#EXTINF:-1,BEIN sports 3
+https://stream.ayas.ir/hls2/bein3.m3u8
+#EXTINF:-1,BEIN sports 4
+https://stream.ayas.ir/hls2/bein4.m3u8
 #EXTINF:-1,
