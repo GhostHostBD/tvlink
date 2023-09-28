@@ -61,8 +61,10 @@ https://stream.ayas.ir/hls2/bein3.m3u8
 https://stream.ayas.ir/hls2/bein4.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EZf3hoIb6YliIw7_5kMjIgHaIO&pid=Api&P=0&w=300&h=300" tvg-name="Jazeera"  group-title="NEWS",Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.talkingbiznews.com/wp-content/uploads/2012/08/bloombergtelevision.gif" tvg-name="Bloomberg TV"  group-title="NEWS",Bloomberg TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.talkingbiznews.com/wp-content/uploads/2012/08/bloombergtelevision.gif" tvg-name="Bloomberg TV",Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-2/Source-USTV-10000-1-slxdlg-BP-HD-4-86X4McEAF4SL_live.m3u8
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.twofour54.com/en/wp-content/uploads/sites/5/2018/05/euronews-logo-2.jpg" tvg-name="Euronews"  group-title="NEWS",Euronews
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.twofour54.com/en/wp-content/uploads/sites/5/2018/05/euronews-logo-2.jpg" tvg-name="Euronews",Euronews
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Wild Earth
+https://wildearth-roku.amagi.tv/master.m3u8
 
