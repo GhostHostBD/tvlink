@@ -3,6 +3,8 @@
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,Ptv sports
 http://103.141.2.38/hls/ptv.m3u8
+#EXTINF:-1,Star Sports 1 HD
+http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/feed-dhks/playlist.m3u8
 #EXTINF:-1,Astro Cricket
 https://m2.ballnaja.com:8443/ASTRO_CRICKET/tracks-v1a1/index.m3u8
 #EXTINF:-1,Tnt sports 1
