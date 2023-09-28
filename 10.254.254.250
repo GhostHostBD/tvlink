@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,Willo Cricket
+http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/willow-cric/chunks.m3u8
+#EXTINF:-1,Star Sports 1 HD
+http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/feed-dhks/playlist.m3u8
+#EXTINF:-1,Sky Sports
+http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/Sky-Sports-cric/chunks.m3u8
+#EXTINF:-1,Ten Sports
+http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/ten-sports/chunks.m3u8
+#EXTINF:-1,Star Sports 3
+http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/starsports-3/chunks.m3u8
+#EXTINF:-1,Bein Sports 3
+http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/bein-sports-3/chunks.m3u8
+#EXTINF:-1,Sports 18
+http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/sports18-nb/chunks.m3u8
+#EXTINF:-1,Jalsha Movies
+http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/star-jalsha-movies/chunks.m3u8
+#EXTINF:-1,Colors Bangla
+http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/colors-bangla/chunks.m3u8
+#EXTINF:-1,Zee Cinema Bangla
+http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/zee-cinema-bangla/playlist.m3u8
+#EXTINF:-1,Star Plus
+http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/star-plus/playlist.m3u8
+#EXTINF:-1,Zee TV
+http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/zee-tv/chunks.m3u8
+#EXTINF:-1,Colors
+http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/colors/chunks.m3u8
+#EXTINF:-1,Sony HD
+http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/sonyhd/chunks.m3u8
+#EXTINF:-1,Sony Max
+http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/sony-max/playlist.m3u8
+#EXTINF:-1,Nat Geo
+http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/natg/chunks.m3u8
+#EXTINF:-1,DBC News
+http://10.254.254.250:1936/U9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI/dbcnews1/chunks.m3u8
