@@ -11,6 +11,14 @@ https://m2.ballnaja.com:8443/ASTRO_CRICKET/tracks-v1a1/index.m3u8
 http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/2505/index.m3u8
 #EXTINF:-1,Star sports Select 2
 http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/2507/index.m3u8
+#EXTINF:-1,Sports 18
+https://serverbackupchannel.xyz/jiotvchannel/app/live/1984/Sports18_1_HD/index.m3u8
+#EXTINF:-1,Sony Ten 3
+https://serverbackupchannel.xyz/jiotvchannel/app/live/524/Ten_3/index.m3u8
+#EXTINF:-1,Jio Sports
+https://serverbackupchannel.xyz/jiotvchannel/app/live/889/Jio_Sports/index.m3u8
+#EXTINF:-1,Jio Cricket
+https://serverbackupchannel.xyz/jiotvchannel/app/live/1918/Jio_Cricket_English/index.m3u8
 #EXTINF:-1,Rta sports
 https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1,Atn afganistan
