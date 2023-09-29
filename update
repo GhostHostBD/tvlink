@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,T Sports
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1695973403~exp=1696016603~acl=/*~data=45.61.146.183-WEB~hmac=c7ccc9975659d1d52fd801d7bdd519e5dc7e05ecc6208e4a7d536691e2af46fa
 #EXTINF:-1,Sports 18
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,Star Sports 2
