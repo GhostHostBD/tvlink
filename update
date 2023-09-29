@@ -41,10 +41,6 @@ https://serverbackupchannel.xyz/jiotvchannel/app/live/524/Ten_3/index.m3u8
 https://serverbackupchannel.xyz/jiotvchannel/app/live/889/Jio_Sports/index.m3u8
 #EXTINF:-1,Jio Cricket
 https://serverbackupchannel.xyz/jiotvchannel/app/live/1918/Jio_Cricket_English/index.m3u8
-#EXTINF:-1,Sports
-https://sportsleading.online/live/stream_e2.m3u8
-#EXTINF:-1,Sports
-https://sportsleading.online/live/stream_e3.m3u8
 #EXTINF:-1,Rta sports
 https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1,Atn afganistan
@@ -100,3 +96,17 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
 
+
+
+#EXTINF:-1,Sports e1
+https://sportsleading.online/live/stream_e1.m3u8
+#EXTINF:-1,Sports e2
+https://sportsleading.online/live/stream_e2.m3u8
+#EXTINF:-1,Sports e3
+https://sportsleading.online/live/stream_e3.m3u8
+#EXTINF:-1,Sports e4
+https://sportsleading.online/live/stream_e4.m3u8
+#EXTINF:-1,Sports e5
+https://sportsleading.online/live/stream_e5.m3u8
+#EXTINF:-1,Sports e6
+https://sportsleading.online/live/stream_e6.m3u8
