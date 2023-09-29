@@ -107,6 +107,8 @@ http://151.248.16.100:4444/Eurosport2/index.m3u8
 #EXTINF:-1,AnimalPlanet HD http://151.248.16.100:4444/AnimalPlanet/index.m3u8
 #EXTINF:-1,NationalGeographic HD http://151.248.16.100:4444/NationalGeographic/index.m3u8
 #EXTINF:-1,CartoonNetwork HD http://151.248.16.100:4444/CartoonNetwork/index.m3u8
+#EXTINF:-1,History HD
+http://151.248.16.100:4444/History/index.m3u8
 
 
 #EXTINF:-1,4 Kurd
