@@ -102,6 +102,11 @@ http://151.248.16.100:4444/ESPN2/index.m3u8
 http://151.248.16.100:4444/Eurosport1/index.m3u8
 #EXTINF:-1,EUROSPORT 2
 http://151.248.16.100:4444/Eurosport2/index.m3u8
+#EXTINF:-1,DiscoveryScience HD http://151.248.16.100:4444/DiscoveryScience/index.m3u8
+#EXTINF:-1,Discovery HD http://151.248.16.100:4444/Discovery/index.m3u8
+#EXTINF:-1,AnimalPlanet HD http://151.248.16.100:4444/AnimalPlanet/index.m3u8
+#EXTINF:-1,NationalGeographic HD http://151.248.16.100:4444/NationalGeographic/index.m3u8
+#EXTINF:-1,CartoonNetwork HD http://151.248.16.100:4444/CartoonNetwork/index.m3u8
 
 
 #EXTINF:-1,4 Kurd
