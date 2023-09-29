@@ -43,6 +43,8 @@ https://serverbackupchannel.xyz/jiotvchannel/app/live/889/Jio_Sports/index.m3u8
 https://serverbackupchannel.xyz/jiotvchannel/app/live/1918/Jio_Cricket_English/index.m3u8
 #EXTINF:-1,Sports
 https://sportsleading.online/live/stream_e2.m3u8
+#EXTINF:-1,Sports
+https://sportsleading.online/live/stream_e3.m3u8
 #EXTINF:-1,Rta sports
 https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1,Atn afganistan
