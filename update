@@ -171,6 +171,8 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-2/Sour
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
+#EXTINF:-1,Fox News
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 
 
