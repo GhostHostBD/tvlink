@@ -114,7 +114,7 @@ http://151.248.16.100:4444/History/index.m3u8
 #EXTINF:-1,4 Kurd
 http://51.210.199.23/hls/stream.m3u8
 #EXTINF:-1,deepto
-https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-1080p.m3u8
 #EXTINF:-1,Ekushey ETV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,Btv
