@@ -1,13 +1,5 @@
 #EXTM3U
 #EXTINF:-1,T Sports
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1695973403~exp=1696016603~acl=/*~data=45.61.146.183-WEB~hmac=c7ccc9975659d1d52fd801d7bdd519e5dc7e05ecc6208e4a7d536691e2af46fa
-#EXTINF:-1,T Sports
-https://boldwhirlwindscientists.mhapurbo1.repl.co/MH-SPORTS/T_Sports_Hd/hls/index.m3u8|Referer=https://boomtv.co.in/.m3u8
-#EXTINF:-1,Star Sports 1
-https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8?hdnts=st=1695973687~exp=1696016887~acl=/*~data=45.61.146.183-WEB~hmac=8534677c847a9aba1a2d49337eebb1123ee0afdca5ef4d271702d197af5e4d29
-#EXTINF:-1,T Sports
-https://chiefcarefulstruct.mhapurbo1.repl.co/MH-SPORTS/T_Sports_Bd/hls/index.m3u8%7CReferer=https:/boomtv.co.in/.m3u8
-#EXTINF:-1,T Sports
 https://boldwhirlwindscientists.mhapurbo1.repl.co/MH-SPORTS/T_Sports_Hd/hls/index.m3u8|Referer=https://boomtv.co.in/.m3u8
 #EXTINF:-1,PTV Sports
 https://offshoreloyaltasks.mhapurbo1.repl.co/MH-SPORTS/Ptv_Sports/hls/index.m3u8|Referer=https://boomtv.co.in/.m3u8
