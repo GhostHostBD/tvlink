@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1,T Sports
-https://boldwhirlwindscientists.mhapurbo1.repl.co/MH-SPORTS/T_Sports_Hd/hls/index.m3u8|Referer=https://boomtv.co.in/.m3u8
-#EXTINF:-1,PTV Sports
-https://offshoreloyaltasks.mhapurbo1.repl.co/MH-SPORTS/Ptv_Sports/hls/index.m3u8|Referer=https://boomtv.co.in/.m3u8
-#EXTINF:-1,Star Sports Select 1
-https://bronzecompletehypertalk.mhapurbo1.repl.co/MH-SPORTS/Star_Select_1hd/hls/index.m3u8|Referer=https://boomtv.co.in/.m3u8
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1696063198~exp=1696106398~acl=/*~data=45.61.146.183-WEB~hmac=630efdd497bb6b18298a15dbec68162af1f447bf17db2717d16cb7a4f1d938f5
+#EXTINF:-1,GTV
+http://103.193.72.74:8080/gtv/index.m3u8
+#EXTINF:-1,T Sports
+http://185.132.178.50/JK_100/index.m3u8?token=97ac6944251e0c8d4501730c33ee817d
 
 
 
