@@ -4,7 +4,7 @@ https://tvs2.aynaott.com/ssps1hd/tracks-v1a1/mono.m3u8?hdnts=st=1696338343~exp=1
 #EXTINF:-1,Star Sports 1
 https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8?hdnts=st=1696338368~exp=1696381568~acl=/*~data=45.61.146.183-WEB~hmac=50f96da7120f6f7ed8b2f043751970394b2b94598e5be81527dda1871f6dd551
 #EXTINF:-1,T Sports
-
+https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1696348471~exp=1696391671~acl=/*~data=45.61.146.183-WEB~hmac=0d04a70eb7ea7acc46a6084eb89ba256bd18370c12ebb56b37de9939a241c6f2
 #EXTINF:-1,GTV
 http://103.193.72.74:8080/gtv/index.m3u8
 #EXTINF:-1,T Sports
