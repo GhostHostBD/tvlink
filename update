@@ -3,6 +3,8 @@
 https://tvs2.aynaott.com/ssps1hd/tracks-v1a1/mono.m3u8?hdnts=st=1696338343~exp=1696381543~acl=/*~data=45.61.146.183-WEB~hmac=8ff39779601adbe264735cd1986324885bb5aa65ec76ceb2bf48d7207878b110
 #EXTINF:-1,Star Sports 1
 https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8?hdnts=st=1696338368~exp=1696381568~acl=/*~data=45.61.146.183-WEB~hmac=50f96da7120f6f7ed8b2f043751970394b2b94598e5be81527dda1871f6dd551
+#EXTINF:-1,T Sports
+
 #EXTINF:-1,GTV
 http://103.193.72.74:8080/gtv/index.m3u8
 #EXTINF:-1,T Sports
@@ -25,6 +27,12 @@ https://sportsleading.online/live/stream_2.m3u8
 https://sportsleading.online/live/stream_3.m3u8
 #EXTINF:-1,Sports 4
 https://sportsleading.online/live/stream_4.m3u8
+
+
+#EXTINF:-1,Sky Main Event
+https://linear007-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportsmainevent)/manifest_sd.mpd
+#EXTINF:-1,Sky Sports Cricket
+https://linear003-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportscricket)/manifest_sd.mpd
 
 
 #EXTINF:-1,Sports 18
