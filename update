@@ -6,10 +6,6 @@ http://103.193.72.74:8080/gtv/index.m3u8
 #EXTINF:-1,T Sports
 https://thetvnetwork.cc/nayeem69/cooltv.m3u8?id=10444
 
-#EXTINF:-1,tt
-https://thetvnetwork.cc/nayeem69/cooltv.m3u8?id=10445
-
-
 
 
 
@@ -17,22 +13,6 @@ https://thetvnetwork.cc/nayeem69/cooltv.m3u8?id=10445
 https://sportsleading.online/live/stream_e1.m3u8
 #EXTINF:-1,Sports e2
 https://sportsleading.online/live/stream_e2.m3u8
-#EXTINF:-1,Sports e3
-https://sportsleading.online/live/stream_e3.m3u8
-#EXTINF:-1,Sports e4
-https://sportsleading.online/live/stream_e4.m3u8
-#EXTINF:-1,Sports e5
-https://sportsleading.online/live/stream_e5.m3u8
-#EXTINF:-1,Sports e6
-https://sportsleading.online/live/stream_e6.m3u8
-#EXTINF:-1,Sports e7
-https://sportsleading.online/live/stream_e7.m3u8
-#EXTINF:-1,Sports e8
-https://sportsleading.online/live/stream_e8.m3u8
-#EXTINF:-1,Sports e9
-https://sportsleading.online/live/stream_e9.m3u8
-#EXTINF:-1,Sports e10
-https://sportsleading.online/live/stream_e10.m3u8
 #EXTINF:-1,Sports 1
 https://sportsleading.online/live/stream_1.m3u8
 #EXTINF:-1,Sports 2
@@ -41,18 +21,6 @@ https://sportsleading.online/live/stream_2.m3u8
 https://sportsleading.online/live/stream_3.m3u8
 #EXTINF:-1,Sports 4
 https://sportsleading.online/live/stream_4.m3u8
-#EXTINF:-1,Sports 5
-https://sportsleading.online/live/stream_5.m3u8
-#EXTINF:-1,Sports 6
-https://sportsleading.online/live/stream_6.m3u8
-#EXTINF:-1,Sports 7
-https://sportsleading.online/live/stream_7.m3u8
-#EXTINF:-1,Sports 8
-https://sportsleading.online/live/stream_8.m3u8
-#EXTINF:-1,Sports 9
-https://sportsleading.online/live/stream_9.m3u8
-#EXTINF:-1,Sports 10
-https://sportsleading.online/live/stream_10.m3u8
 
 
 #EXTINF:-1,Sports 18
@@ -164,6 +132,19 @@ https://stream.ayas.ir/hls2/bein2.m3u8
 https://stream.ayas.ir/hls2/bein3.m3u8
 #EXTINF:-1,BEIN sports 4
 https://stream.ayas.ir/hls2/bein4.m3u8
+
+#EXTINF:-1,BEIN sports 1 
+https://ir14.footballii.ir/hls2/bein1.m3u8
+#EXTINF:-1,BEIN sports 2
+https://ir14.footballii.ir/hls2/bein2.m3u8
+#EXTINF:-1,BEIN sports 3
+https://ir14.footballii.ir/hls2/bein3.m3u8
+#EXTINF:-1,BEIN sports 4
+https://ir14.footballii.ir/hls2/bein4.m3u8
+#EXTINF:-1,BEIN sports 5
+https://ir14.footballii.ir/hls2/bein5.m3u8
+Daily Football
+https://ir14.footballii.ir/hls2/dailyfootball.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EZf3hoIb6YliIw7_5kMjIgHaIO&pid=Api&P=0&w=300&h=300" tvg-name="Jazeera",Jazeera English
