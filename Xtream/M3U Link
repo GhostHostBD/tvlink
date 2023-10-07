@@ -19,8 +19,8 @@ http://mybox.plus:80/get.php?username=hisham&password=123456&type=m3u
 http://amazontv.me:8519/get.php?username=ahmed.fr.z1&password=72367445&type=m3u
 #EXTINF:-1,XTV Xtream
 http://xtv.ooo:8080/get.php?username=50187198618&password=884815765&type=m3u_plus&output=m3u8
-#EXTINF:-1,
-get.php?username=&password=&type=m3u
+#EXTINF:-1,Kuchini
+http://kuchini.site:8080/get.php?username=3c3cc322&password=f33e7534&type=m3u
 get.php?username=&password=&type=m3u
 get.php?username=&password=&type=m3u
 get.php?username=&password=&type=m3u
