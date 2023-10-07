@@ -1,12 +1,25 @@
+#EXTM3U
+#EXTINF:-1,Hum IP TV
 http://humiptv.live:8080/get.php?username=0192838773&password=9948381838&type=m3u_plus&output=m3u8
+#EXTINF:-1,Geo IP TV
 http://live.geoiptv.org:8880/get.php?username=tvgp&password=r050qPk8XT&type=m3u
+#EXTINF:-1,Pro IP TV
 http://p1.proiptv.co:88/get.php?username=sohrab&password=Ahfd34DSf86sfDVG234Sogf12&type=m3u
+#EXTINF:-1,Sansat
 http://sansat.net:25461/get.php?username=00116e053ae7&password=NVXKvFAzyAmpvrC&type=m3u
+#EXTINF:-1,BDTB
 http://bdtb.io/get.php?username=lucasadm12&password=Pt9090&type=m3u
+#EXTINF:-1,Boxserver
 http://boxserver.live:8080/get.php?username=@OnurXxxXx&password=8UPtSq3bLkwc&type=m3u
+#EXTINF:-1,B1G
 http://b1g.uk/get.php?username=a7p6mwXZakBt&password=bdZ9P9e4dmCT&type=m3u
+#EXTINF:-1,My Box Plus
 http://mybox.plus:80/get.php?username=hisham&password=123456&type=m3u
+#EXTINF:-1,Amazon TV
 http://amazontv.me:8519/get.php?username=ahmed.fr.z1&password=72367445&type=m3u
+#EXTINF:-1,XTV Xtream
+http://xtv.ooo:8080/get.php?username=50187198618&password=884815765&type=m3u_plus&output=m3u8
+#EXTINF:-1,
 get.php?username=&password=&type=m3u
 get.php?username=&password=&type=m3u
 get.php?username=&password=&type=m3u
