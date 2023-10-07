@@ -7,6 +7,8 @@ https://mprod-cdn.toffeelive.com/iccwc2023/match-1/master_1000.m3u8|cookie=Edge-
 https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1696657839~exp=1696701039~acl=/*~data=45.61.146.183-WEB~hmac=688741e5a2df15afa06dfd9b378c8adef04c25294b36247b0ab1b2600ac6a43d
 #EXTINF:-1,PTV Sports 
 https://tvs3.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1696427937~exp=1696457937~acl=/Ptvsports/*~data=37.111.247.218-WEB~hmac=f1217a6b0b79d629fd3da2934f12d89605f71d59100090d8557f581a2cc37f26
+#EXTINF:-1,Star Sports 1
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 #EXTINF:-1,Sky Sports 1
 https://donelfantastic.github.io/live/ssportsNZ.m3u8
 #EXTINF:-1,T Sports
