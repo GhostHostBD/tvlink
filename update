@@ -17,7 +17,7 @@ https://webudit.vipboxtv.stream/lb/premium598/index.m3u8?|Referer=https://stream
 https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=st=1696660370~exp=1696660670~acl=*~id=ddb9ec58-b33a-4f95-835d-cd45a403e00f~hmac=e3c451ec9a84f72503e8b74438bd6c050b2b7cda39811966d7980b5a33c1382d&originpath=/linear/hls/pb/event/7044GU7mRL2-99W6nrnbzA/stream/784e40ef-a939-4837-b410-df92ba758734:SIN/master.m3u8
 
 #EXTINF:-1,GTV
-http://103.193.72.74:8080/gtv/index.m3u8
+http://himel-op@103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8?key=Himel-Himu
 #EXTINF:-1,T Sports
 https://thetvnetwork.cc/nayeem69/cooltv.m3u8?id=10444
 
