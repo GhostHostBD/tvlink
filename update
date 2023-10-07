@@ -18,6 +18,8 @@ https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?h
 
 #EXTINF:-1,GTV
 http://himel-op@103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8?key=Himel-Himu
+#EXTINF:-1,GTV
+http://103.193.72.74:8080/gtv/index.m3u8
 #EXTINF:-1,T Sports
 https://thetvnetwork.cc/nayeem69/cooltv.m3u8?id=10444
 
