@@ -3,6 +3,10 @@
 https://sportsleading.online/live/stream_e1.m3u8
 #EXTINF:-1,Sports e2
 https://sportsleading.online/live/stream_e2.m3u8
+#EXTINF:-1,Sports e3
+https://sportsleading.online/live/stream_e3.m3u8
+
+
 #EXTINF:-1,S Cricket
 http://xtv.ooo:8080//live/50187198618/884815765/353949.ts
 #EXTINF:-1,Toffee
@@ -62,8 +66,8 @@ https://sportsleading.online/live/stream_1.m3u8
 https://sportsleading.online/live/stream_2.m3u8
 #EXTINF:-1,Sports 3
 https://sportsleading.online/live/stream_3.m3u8
-#EXTINF:-1,Sports 4
-https://sportsleading.online/live/stream_4.m3u8
+#EXTINF:-1,Sports f1
+https://sportsleading.online/live/stream_f1.m3u8
 
 
 #EXTINF:-1,Sky Main Event
