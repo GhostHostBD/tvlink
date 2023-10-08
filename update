@@ -7,7 +7,7 @@ https://sportsleading.online/live/stream_e2.m3u8
 https://sportsleading.online/live/stream_e3.m3u8
 #EXTINF:-1,GTV
 https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,GTV
+#EXTINF:-1,GTV
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GTV
 http://103.7.4.54/Gazi-TV/index.m3u8?token=7du8JE0_2OUbF0
@@ -19,10 +19,17 @@ http://manik-sportsiptv.zapto.org:8080/live/tsports/index.m3u8
 http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:-1,T Sports
 http://live.himel-himu.tk/TSports-HD-Bdix/hls/Himel-Op.m3u8
-#EXTINF:-1 ,Star sports 1
+#EXTINF:-1,Star sports 1
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
 
+
+#EXTINF:-1,Astro
+https://ddh2.vipboxtv.stream/ddh2/premium370/tracks-v1a1/mono.m3u8|User-Agent=android&Referer=https://superntuplay.xyz/.m3u8
+#EXTINF:-1,S Cricket
+https://ddh2.vipboxtv.stream/ddh2/premium368/tracks-v1a1/mono.m3u8|User-Agent=android&Referer=https://superntuplay.xyz/.m3u8
+#EXTINF:-1,Fox
+https://msrsagar.vipboxtv.stream/ddy5/premium369/tracks-v1a1/mono.m3u8|user-agent=msr&referer=https://superntuplay.xyz/.m3u8
 #EXTINF:-1,S Cricket
 http://xtv.ooo:8080//live/50187198618/884815765/353949.ts
 #EXTINF:-1,Toffee
