@@ -5,6 +5,8 @@ https://sportsleading.online/live/stream_e1.m3u8
 https://sportsleading.online/live/stream_e2.m3u8
 #EXTINF:-1,Sports e3
 https://sportsleading.online/live/stream_e3.m3u8
+#EXTINF:-1,RabbitholeBD
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/n8O_grAXlOtiffYFuYE0ClWKTlZeoP_pay7p-a170Ex-VoXN-KoZPKV_RYP3cO78S_lCi3NAEC1NHaCWAzFhvw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1,Astro Cricket
 https://tvs1.aynaott.com/astrocrickethd/tracks-v1a1/mono.m3u8?hdnts=st=1697190841~exp=1697234041~acl=/*~data=45.61.146.183-WEB~hmac=41a80154c44e6b80e52c97d163293f9c8e62370fc2d4287b4ba27b53e05ca9bd
 #EXTINF:-1,T Sports
