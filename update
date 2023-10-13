@@ -9,6 +9,8 @@ https://sportsleading.online/live/stream_e3.m3u8
 https://tvs1.aynaott.com/astrocrickethd/tracks-v1a1/mono.m3u8?hdnts=st=1697190841~exp=1697234041~acl=/*~data=45.61.146.183-WEB~hmac=41a80154c44e6b80e52c97d163293f9c8e62370fc2d4287b4ba27b53e05ca9bd
 #EXTINF:-1,T Sports
 https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1697180337~exp=1697223537~acl=/*~data=45.61.146.183-WEB~hmac=d781fdefa4f5f76bd91b8ace6a2decb7012fd9913085c006d80c2142c8831da5
+#EXTINF:-1,A Sports
+https://tvs1.aynaott.com/asports/tracks-v1a1/2023/10/13/09/56/28-09000.ts?hdnts=st%3D1697191023%7Eexp%3D1697234223%7Eacl%3D%2F%2A%7Edata%3D45.61.146.183-WEB%7Ehmac%3D643ea2c81cc56138164f096947b8a1979db04f71953527d0dfc40ee333b31f4d
 #EXTINF:-1,GTV
 https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1697181237~exp=1697224437~acl=/*~data=45.61.146.183-WEB~hmac=00d7bbc00fc3981a7b02f2a59d40b217a10cb879e017273b6d54d216e64ecf22
 #EXTINF:-1,PTV
