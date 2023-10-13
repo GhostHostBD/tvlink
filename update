@@ -10,15 +10,15 @@ https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/n8O_grAXlOtiffYFuY
 #EXTINF:-1,Astro Cricket
 https://tvs1.aynaott.com/astrocrickethd/tracks-v1a1/mono.m3u8?hdnts=st=1697190841~exp=1697234041~acl=/*~data=45.61.146.183-WEB~hmac=41a80154c44e6b80e52c97d163293f9c8e62370fc2d4287b4ba27b53e05ca9bd
 #EXTINF:-1,T Sports
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1697180337~exp=1697223537~acl=/*~data=45.61.146.183-WEB~hmac=d781fdefa4f5f76bd91b8ace6a2decb7012fd9913085c006d80c2142c8831da5
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1697200506~exp=1697243706~acl=/*~data=45.61.146.183-WEB~hmac=6f7a4ac9d5d9980be59e523f8bb442bc80f6a110cf0aa4886b64345c40a68fe5
 #EXTINF:-1,A Sports
-https://tvs1.aynaott.com/asports/tracks-v1a1/2023/10/13/09/56/28-09000.ts?hdnts=st%3D1697191023%7Eexp%3D1697234223%7Eacl%3D%2F%2A%7Edata%3D45.61.146.183-WEB%7Ehmac%3D643ea2c81cc56138164f096947b8a1979db04f71953527d0dfc40ee333b31f4d
+https://tvs1.aynaott.com/asports/tracks-v1a1/mono.m3u8?hdnts=st=1697200537~exp=1697243737~acl=/*~data=45.61.146.183-WEB~hmac=a3da570c7bb1573fb02abfd80d8249a2f331f2e9212cd2ba9ce2a34838a9087f
 #EXTINF:-1,GTV
 https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1697181237~exp=1697224437~acl=/*~data=45.61.146.183-WEB~hmac=00d7bbc00fc3981a7b02f2a59d40b217a10cb879e017273b6d54d216e64ecf22
 #EXTINF:-1,PTV
-https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1697180711~exp=1697223911~acl=/*~data=45.61.146.183-WEB~hmac=7ac7d600d441a3696f971b9e932809b66d3b5a5fb9b30c9352bf1d8c752e1e43
-#EXTINF:-1,Star Sports 1
-https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8?hdnts=st=1697190557~exp=1697233757~acl=/*~data=45.61.146.183-WEB~hmac=a10bf2a90abe2455803237e4baa9b500240150781faff703ebfbccc6b667442e
+https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1697200596~exp=1697243796~acl=/*~data=45.61.146.183-WEB~hmac=735c65ee7999e3bded3cc7a4d6e8f1e5112cbd0b2de9faac19e8949addcf4738
+#EXTINF:-1,Star Sports
+https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8?hdnts=st=1697200630~exp=1697243830~acl=/*~data=45.61.146.183-WEB~hmac=545b712314957e1dea5d15762eeb72b5b980bea2b719563d389dc660c63e0fac
 #EXTINF:-1,Ten Sports
 http://bluestartv.biz:80/play/link/b0fa94bc-cd77-429a-8c17-93d23c1c91ba/eyJpdiI6Ik12Nm5JVkpvL0ZJcEc4aW1FejBoUUE9PSIsInZhbHVlIjoicGE3WkFRS1JFT3QrRG16R2JUZkQ1VG5hSzF2Rnd5WGVCcjhxSXpiRFVvS0cvUnEwbVpJRFUvVjdranVXRzBZNSIsIm1hYyI6ImQyMDliMmMwM2JkYjQ4NmRmM2FlZTVlZDJiOWQ2NGQ2N2RiMGEwODYzYzlmYThhNjI3MjlmNGI5N2E5NGRkMzUiLCJ0YWciOiIifQ==.m3u8
 #EXTINF:-1,GTV
