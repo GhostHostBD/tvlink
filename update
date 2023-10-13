@@ -1,10 +1,10 @@
 #EXTM3U
+#EXTINF:-1,Sports e3
+https://sportsleading.online/live/stream_e3.m3u8
 #EXTINF:-1,Sports e1
 https://sportsleading.online/live/stream_e1.m3u8
 #EXTINF:-1,Sports e2
 https://sportsleading.online/live/stream_e2.m3u8
-#EXTINF:-1,Sports e3
-https://sportsleading.online/live/stream_e3.m3u8
 #EXTINF:-1,RabbitholeBD
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/n8O_grAXlOtiffYFuYE0ClWKTlZeoP_pay7p-a170Ex-VoXN-KoZPKV_RYP3cO78S_lCi3NAEC1NHaCWAzFhvw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1,Astro Cricket
