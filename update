@@ -1,10 +1,16 @@
 #EXTM3U
-#EXTINF:-1,Sports e1
-https://sportsleading.online/live/stream_e1.m3u8
 #EXTINF:-1,Sports e2
 https://sportsleading.online/live/stream_e2.m3u8
+#EXTINF:-1,Sports e1
+https://sportsleading.online/live/stream_e1.m3u8
 #EXTINF:-1,Sports e3
 https://sportsleading.online/live/stream_e3.m3u8
+#EXTINF:-1,T Sports
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1697180337~exp=1697223537~acl=/*~data=45.61.146.183-WEB~hmac=d781fdefa4f5f76bd91b8ace6a2decb7012fd9913085c006d80c2142c8831da5
+#EXTINF:-1,GTV
+https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1697181237~exp=1697224437~acl=/*~data=45.61.146.183-WEB~hmac=00d7bbc00fc3981a7b02f2a59d40b217a10cb879e017273b6d54d216e64ecf22
+#EXTINF:-1,PTV
+https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1697180711~exp=1697223911~acl=/*~data=45.61.146.183-WEB~hmac=7ac7d600d441a3696f971b9e932809b66d3b5a5fb9b30c9352bf1d8c752e1e43
 #EXTINF:-1,GTV
 https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GTV
