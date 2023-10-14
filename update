@@ -13,22 +13,22 @@ https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/m3
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/cHnTSIA25w7-6vTJrbghZr9u5tIZoyMpAGwLj0HEjPd6842ft_VvPNIi8BHtdm-9-rRdGv_NS1V3sODJHTepWg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1,Astro Cricket
-https://tvs1.aynaott.com/astrocrickethd/tracks-v1a1/mono.m3u8?hdnts=st=1697205637~exp=1697248837~acl=/*~data=45.61.146.183-WEB~hmac=4ad9ac6cc84b0678624aa3c1186b7f637caa4f2187a1e4adacf1823e65ee8cf6
+https://tvs1.aynaott.com/astrocrickethd/tracks-v1a1/mono.m3u8?hdnts=st=1697269936~exp=1697313136~acl=/*~data=45.61.146.183-WEB~hmac=655ede8100050b234acc64550325e9afe0e6144d5261371f36e6bd021e7be9bb
 
 #EXTINF:-1,T Sports
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1697200506~exp=1697243706~acl=/*~data=45.61.146.183-WEB~hmac=6f7a4ac9d5d9980be59e523f8bb442bc80f6a110cf0aa4886b64345c40a68fe5
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1697270191~exp=1697313391~acl=/*~data=45.61.146.183-WEB~hmac=10a80ec3fcb62d6c8b99704c0e241eda235c37debd32a91d1d2c9bb03248a28b
 
 #EXTINF:-1,A Sports
-https://tvs1.aynaott.com/asports/tracks-v1a1/mono.m3u8?hdnts=st=1697200537~exp=1697243737~acl=/*~data=45.61.146.183-WEB~hmac=a3da570c7bb1573fb02abfd80d8249a2f331f2e9212cd2ba9ce2a34838a9087f
+https://tvs1.aynaott.com/asports/tracks-v1a1/mono.m3u8?hdnts=st=1697270214~exp=1697313414~acl=/*~data=45.61.146.183-WEB~hmac=522478b82595127e9242a88afb8e0d7dd1b94d9a689ff4a6dc1bb92ac674ca67
 
 #EXTINF:-1,GTV
-https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1697200797~exp=1697243997~acl=/*~data=45.61.146.183-WEB~hmac=82df107728c8760a3b69240e8e0a5a123b7cdc6b5d103e15347967d190e70211
+https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1697270330~exp=1697313530~acl=/*~data=45.61.146.183-WEB~hmac=da260453377d8c8a54059a52b180af5d1b36188b10eeece4990e8897a8fa71c2
 
 #EXTINF:-1,PTV
-https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1697200596~exp=1697243796~acl=/*~data=45.61.146.183-WEB~hmac=735c65ee7999e3bded3cc7a4d6e8f1e5112cbd0b2de9faac19e8949addcf4738
+https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1697270361~exp=1697313561~acl=/*~data=45.61.146.183-WEB~hmac=92ad21402093956cc6fda81acfffda69c0f894b0c83d927f35bf604f1d803fe7
 
 #EXTINF:-1,Star Sports
-https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8?hdnts=st=1697200630~exp=1697243830~acl=/*~data=45.61.146.183-WEB~hmac=545b712314957e1dea5d15762eeb72b5b980bea2b719563d389dc660c63e0fac
+https://tvs1.aynaott.com/sspts1/index.m3u8?hdnts=st=1697270436~exp=1697313636~acl=/*~data=45.61.146.183-WEB~hmac=72806f9a0a1eb58f876205501f6053e5420b4c814c7c7a734f390be4e28a1433
 
 #EXTINF:-1,Ten Sports
 http://bluestartv.biz:80/play/link/b0fa94bc-cd77-429a-8c17-93d23c1c91ba/eyJpdiI6Ik12Nm5JVkpvL0ZJcEc4aW1FejBoUUE9PSIsInZhbHVlIjoicGE3WkFRS1JFT3QrRG16R2JUZkQ1VG5hSzF2Rnd5WGVCcjhxSXpiRFVvS0cvUnEwbVpJRFUvVjdranVXRzBZNSIsIm1hYyI6ImQyMDliMmMwM2JkYjQ4NmRmM2FlZTVlZDJiOWQ2NGQ2N2RiMGEwODYzYzlmYThhNjI3MjlmNGI5N2E5NGRkMzUiLCJ0YWciOiIifQ==.m3u8
