@@ -18,14 +18,14 @@ https://tvs1.aynaott.com/astrocrickethd/index.m3u8?hdnts=st=1697272373~exp=16973
 #EXTINF:-1,T Sports
 https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1697286967~exp=1697330167~acl=/*~data=45.61.146.183-WEB~hmac=6f44c44fa2929cb4f9141368cce1bd2dedbf4c1f1f32fa667889b9ce2ddb9a75
 
-#EXTINF:-1,A Sports
-https://tvs1.aynaott.com/asports/tracks-v1a1/mono.m3u8?hdnts=st=1697270214~exp=1697313414~acl=/*~data=45.61.146.183-WEB~hmac=522478b82595127e9242a88afb8e0d7dd1b94d9a689ff4a6dc1bb92ac674ca67
-
 #EXTINF:-1,GTV
-https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1697270330~exp=1697313530~acl=/*~data=45.61.146.183-WEB~hmac=da260453377d8c8a54059a52b180af5d1b36188b10eeece4990e8897a8fa71c2
+https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1697287123~exp=1697330323~acl=/*~data=45.61.146.183-WEB~hmac=a839b533fabd7e969fdee67d12a3f381dd2f841a6b851a311b75eaba0338da09
+
+#EXTINF:-1,A Sports
+https://tvs1.aynaott.com/asports/tracks-v1a1/mono.m3u8?hdnts=st=1697287338~exp=1697330538~acl=/*~data=45.61.146.183-WEB~hmac=5291b02301c83c49bbee2128e2cb05c84831cebdb7beb34030209c35f82db3ac
 
 #EXTINF:-1,PTV
-https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1697270361~exp=1697313561~acl=/*~data=45.61.146.183-WEB~hmac=92ad21402093956cc6fda81acfffda69c0f894b0c83d927f35bf604f1d803fe7
+https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1697287294~exp=1697330494~acl=/*~data=45.61.146.183-WEB~hmac=ce71eccf513fce62d3a918849a3c1e59a9665acdc7ea31bd0b91804a84dcdaa6
 
 #EXTINF:-1,Star Sports
 https://tvs1.aynaott.com/sspts1/index.m3u8?hdnts=st=1697270436~exp=1697313636~acl=/*~data=45.61.146.183-WEB~hmac=72806f9a0a1eb58f876205501f6053e5420b4c814c7c7a734f390be4e28a1433
