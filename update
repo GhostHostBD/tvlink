@@ -13,7 +13,7 @@ https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/m3
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/cHnTSIA25w7-6vTJrbghZr9u5tIZoyMpAGwLj0HEjPd6842ft_VvPNIi8BHtdm-9-rRdGv_NS1V3sODJHTepWg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1,Astro Cricket
-https://tvs1.aynaott.com/astrocrickethd/tracks-v1a1/mono.m3u8?hdnts=st=1697269936~exp=1697313136~acl=/*~data=45.61.146.183-WEB~hmac=655ede8100050b234acc64550325e9afe0e6144d5261371f36e6bd021e7be9bb
+https://tvs1.aynaott.com/astrocrickethd/index.m3u8?hdnts=st=1697272373~exp=1697315573~acl=/*~data=45.61.146.183-WEB~hmac=c1d7e5f3cd91918ccf84e685fa09a9aa54c8d53b2a343d252920f55ac0ee5cda
 
 #EXTINF:-1,T Sports
 https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1697270191~exp=1697313391~acl=/*~data=45.61.146.183-WEB~hmac=10a80ec3fcb62d6c8b99704c0e241eda235c37debd32a91d1d2c9bb03248a28b
