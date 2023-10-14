@@ -1,25 +1,19 @@
-Sony Ten 1
+#EXTM3U
+#EXTINF:-1,Sony Ten 1
 https://bldcmstag-cdn.toffeelive.com/cdn/live/slang/sony_ten1_hd_576/sony_ten1_hd_576.m3u8?bitrate=1000000&channel=sony_ten1_hd_576&gp_id=
-
-Sony Ten 2
+#EXTINF:-1,Sony Ten 2
 https://bldcmstag-cdn.toffeelive.com/cdn/live/slang/sony_ten2_hd_576/sony_ten2_hd_576.m3u8?bitrate=1000000&channel=sony_ten2_hd_576&gp_id=
-
-Sony Ten 3
+#EXTINF:-1,Sony Ten 3
 https://bldcmstag-cdn.toffeelive.com/cdn/live/slang/sony_ten3_hd_576/sony_ten3_hd_576.m3u8?bitrate=1000000&channel=sony_ten3_hd_576&gp_id=
-
-Sony Ten 5
+#EXTINF:-1,Sony Ten 5
 https://bldcmstag-cdn.toffeelive.com/cdn/live/slang/sony_six_hd_576/sony_six_hd_576.m3u8?bitrate=1000000&channel=sony_six_hd_576&gp_id=
-
-Euro Sports
+#EXTINF:-1,Euro Sports
 https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/euro_sports_hd_576/euro_sports_hd_576.m3u8?bitrate=1000000&channel=euro_sports_hd_576&gp_id=
-
-Euro Sports
+#EXTINF:-1,Euro Sports
 https://bldcmstag-cdn.toffeelive.com/cdn/live/slang/euro_sports_sd_576/euro_sports_sd_576.m3u8?bitrate=1000000&channel=euro_sports_sd_576&gp_id=
-
-Ekattor TV
+#EXTINF:-1,Ekattor TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ekattor_hd_576/ekattor_hd_576.m3u8?bitrate=1000000&channel=ekattor_hd_576&gp_id=
-
-Independent TV
+#EXTINF:-1,Independent TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/independent_576/independent_576.m3u8?bitrate=1000000&channel=independent_576&gp_id=
 
 
@@ -31,6 +25,6 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/independent_576/independent_
 
 
 
-Zee Bangla
+#EXTINF:-1,Zee Bangla
 https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_576/zee_bangla_576.m3u8?bitrate=1000000&channel=zee_bangla_576&gp_id=
 
