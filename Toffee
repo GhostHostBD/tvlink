@@ -1,30 +1,284 @@
 #EXTM3U
-#EXTINF:-1,Sony Ten 1
+#EXTINF:-1,Sony Ten 1 HD
 https://bldcmstag-cdn.toffeelive.com/cdn/live/slang/sony_ten1_hd_576/sony_ten1_hd_576.m3u8?bitrate=1000000&channel=sony_ten1_hd_576&gp_id=
-#EXTINF:-1,Sony Ten 2
+#EXTINF:-1,Sony Ten 1
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ten_1_576/ten_1_576.m3u8?bitrate=1000000&channel=ten_1_576&gp_id=
+#EXTINF:-1,Sony Ten 2 HD
 https://bldcmstag-cdn.toffeelive.com/cdn/live/slang/sony_ten2_hd_576/sony_ten2_hd_576.m3u8?bitrate=1000000&channel=sony_ten2_hd_576&gp_id=
-#EXTINF:-1,Sony Ten 3
+#EXTINF:-1,Sony Ten 2
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ten_2_576/ten_2_576.m3u8?bitrate=1000000&channel=ten_2_576&gp_id=
+#EXTINF:-1,Sony Ten 3 HD
 https://bldcmstag-cdn.toffeelive.com/cdn/live/slang/sony_ten3_hd_576/sony_ten3_hd_576.m3u8?bitrate=1000000&channel=sony_ten3_hd_576&gp_id=
-#EXTINF:-1,Sony Ten 5
+#EXTINF:-1,Sony Ten 3
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ten_3_576/ten_3_576.m3u8?bitrate=1000000&channel=ten_3_576&gp_id=
+#EXTINF:-1,Sony Ten 5 HD
 https://bldcmstag-cdn.toffeelive.com/cdn/live/slang/sony_six_hd_576/sony_six_hd_576.m3u8?bitrate=1000000&channel=sony_six_hd_576&gp_id=
+#EXTINF:-1,Sony Ten 5
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_six_576/sony_six_576.m3u8?bitrate=1000000&channel=sony_six_576&gp_id=
 #EXTINF:-1,Euro Sports
 https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/euro_sports_hd_576/euro_sports_hd_576.m3u8?bitrate=1000000&channel=euro_sports_hd_576&gp_id=
 #EXTINF:-1,Euro Sports
 https://bldcmstag-cdn.toffeelive.com/cdn/live/slang/euro_sports_sd_576/euro_sports_sd_576.m3u8?bitrate=1000000&channel=euro_sports_sd_576&gp_id=
+#EXTINF:-1,Toffee Sports Highlights
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sports_highlights_576/sports_highlights_576.m3u8?bitrate=1000000&channel=sports_highlights_576&gp_id=
+
+
 #EXTINF:-1,Ekattor TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ekattor_hd_576/ekattor_hd_576.m3u8?bitrate=1000000&channel=ekattor_hd_576&gp_id=
 #EXTINF:-1,Independent TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/independent_576/independent_576.m3u8?bitrate=1000000&channel=independent_576&gp_id=
+#EXTINF:-1,Somoy TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/somoy_tv_576/somoy_tv_576.m3u8?bitrate=1000000&channel=somoy_tv_576&gp_id=
+#EXTINF:-1,Channel 24
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/channel_24_576/channel_24_576.m3u8?bitrate=1000000&channel=channel_24_576&gp_id=
+#EXTINF:-1,DBC News
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/dbc_news_576/dbc_news_576.m3u8?bitrate=1000000&channel=dbc_news_576&gp_id=
+#EXTINF:-1,ATN News
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/atn_news_576/atn_news_576.m3u8?bitrate=1000000&channel=atn_news_576&gp_id=
+#EXTINF:-1,News 24
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/news24hd_576/news24hd_576.m3u8?bitrate=1000000&channel=news24hd_576&gp_id=
+#EXTINF:-1,Jamuna TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/jamuna_tv_576/jamuna_tv_576.m3u8?bitrate=1000000&channel=jamuna_tv_576&gp_id=
+#EXTINF:-1,SA TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/satv_hd_576/satv_hd_576.m3u8?bitrate=1000000&channel=satv_hd_576&gp_id=
+#EXTINF:-1,Global TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/global_tv_576/global_tv_576.m3u8?bitrate=1000000&channel=global_tv_576&gp_id=
 
 
+#EXTINF:-1,Al Jazeera English
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/aljazeera_576/aljazeera_576.m3u8?bitrate=1000000&channel=aljazeera_576&gp_id=
+#EXTINF:-1,Al Jazeera Arabic
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/aljazeera_arabic_576/aljazeera_arabic_576.m3u8?bitrate=1000000&channel=aljazeera_arabic_576&gp_id=
+#EXTINF:-1,CNN
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/cnn_576/cnn_576.m3u8?bitrate=1000000&channel=cnn_576&gp_id=
+#EXTINF:-1,DW
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/dw_576/dw_576.m3u8?bitrate=1000000&channel=dw_576&gp_id=
+#EXTINF:-1,Zee News
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_news_576/zee_news_576.m3u8?bitrate=1000000&channel=zee_news_576&gp_id=
+#EXTINF:-1,Rtr Planet
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/rtr_planet_576/rtr_planet_576.m3u8?bitrate=1000000&channel=rtr_planet_576&gp_id=
+#EXTINF:-1,Euro News
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/euro_news_576/euro_news_576.m3u8?bitrate=1000000&channel=euro_news_576&gp_id=
+#EXTINF:-1,Arirang
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/arirang_576/arirang_576.m3u8?bitrate=1000000&channel=arirang_576&gp_id=
+#EXTINF:-1,CGTN
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/cgtn_576/cgtn_576.m3u8?bitrate=1000000&channel=cgtn_576&gp_id=
+#EXTINF:-1,CNA
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/channel_n_asia_576/channel_n_asia_576.m3u8?bitrate=1000000&channel=channel_n_asia_576&gp_id=
+#EXTINF:-1,Zee Business
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_business_576/zee_business_576.m3u8?bitrate=1000000&channel=zee_business_576&gp_id=
+#EXTINF:-1,KBS
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/kbs_world24_576/kbs_world24_576.m3u8?bitrate=1000000&channel=kbs_world24_576&gp_id=
+#EXTINF:-1,TV 5 Monde
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/tv5_monde_576/tv5_monde_576.m3u8?bitrate=1000000&channel=tv5_monde_576&gp_id=
+#EXTINF:-1,NHK World
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/nhk_world_576/nhk_world_576.m3u8?bitrate=1000000&channel=nhk_world_576&gp_id=
+#EXTINF:-1,France 24
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/france24_576/france24_576.m3u8?bitrate=1000000&channel=france24_576&gp_id=
+#EXTINF:-1,RT
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/rt_576/rt_576.m3u8?bitrate=1000000&channel=rt_576&gp_id=
+#EXTINF:-1,TRT World
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/trtworld_576/trtworld_576.m3u8?bitrate=1000000&channel=trtworld_576&gp_id=
 
 
+#EXTINF:-1,Animal Planet HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/animal_planet_hd_576/animal_planet_hd_576.m3u8?bitrate=1000000&channel=animal_planet_hd_576&gp_id=
+#EXTINF:-1,Animal Planet
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/animal_planet_sd_576/animal_planet_sd_576.m3u8?bitrate=1000000&channel=animal_planet_sd_576&gp_id=
+#EXTINF:-1,Discovery HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/discovery_hd_576/discovery_hd_576.m3u8?bitrate=1000000&channel=discovery_hd_576&gp_id=
+#EXTINF:-1,Discovery
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/discovery_sd_576/discovery_sd_576.m3u8?bitrate=1000000&channel=discovery_sd_576&gp_id=
+#EXTINF:-1,Discovery Science
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/discovery_science_576/discovery_science_576.m3u8?bitrate=1000000&channel=discovery_science_576&gp_id=
+#EXTINF:-1,Discovery Asia
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/discovery_asia_576/discovery_asia_576.m3u8?bitrate=1000000&channel=discovery_asia_576&gp_id=
+#EXTINF:-1,Discovery Turbo
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/discovery_turbo_576/discovery_turbo_576.m3u8?bitrate=1000000&channel=discovery_turbo_576&gp_id=
+#EXTINF:-1,Investigation Discovery HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/discovery_india_id_hd_576/discovery_india_id_hd_576.m3u8?bitrate=1000000&channel=discovery_india_id_hd_576&gp_id=
+#EXTINF:-1,Investigation Discovery
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/discovery_india_id_sd_576/discovery_india_id_sd_576.m3u8?bitrate=1000000&channel=discovery_india_id_sd_576&gp_id=
+#EXTINF:-1,TLC HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/tlc_hd_576/tlc_hd_576.m3u8?bitrate=1000000&channel=tlc_hd_576&gp_id=
+#EXTINF:-1,TLC
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/tlc_sd_576/tlc_sd_576.m3u8?bitrate=1000000&channel=tlc_sd_576&gp_id=
+#EXTINF:-1,History TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/history_tv_576/history_tv_576.m3u8?bitrate=1000000&channel=history_tv_576&gp_id=
+#EXTINF:-1,Sony BBC Earth HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_bbc_earth_hd_576/sony_bbc_earth_hd_576.m3u8?bitrate=1000000&channel=sony_bbc_earth_hd_576&gp_id=
+#EXTINF:-1,Sony BBC Earth
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_bbc_earth_576/sony_bbc_earth_576.m3u8?bitrate=1000000&channel=sony_bbc_earth_576&gp_id=
+#EXTINF:-1,Tech Storm
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/tech_storm_576/tech_storm_576.m3u8?bitrate=1000000&channel=tech_storm_576&gp_id=
 
 
+#EXTINF:-1,Channel I
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/channel_i_576/channel_i_576.m3u8?bitrate=1000000&channel=channel_i_576&gp_id=
+#EXTINF:-1,RTV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/rtv_b_576/rtv_b_576.m3u8?bitrate=1000000&channel=rtv_b_576&gp_id=
+#EXTINF:-1,NTV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ntv_b_576/ntv_b_576.m3u8?bitrate=1000000&channel=ntv_b_576&gp_id=
+#EXTINF:-1,Bangla Vision
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/bangla_vision_576/bangla_vision_576.m3u8?bitrate=1000000&channel=bangla_vision_576&gp_id=
+#EXTINF:-1,ATN Bangla
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/atn_bangla_576/atn_bangla_576.m3u8?bitrate=1000000&channel=atn_bangla_576&gp_id=
+#EXTINF:-1,Ananda TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ananda_tv_576/ananda_tv_576.m3u8?bitrate=1000000&channel=ananda_tv_576&gp_id=
+#EXTINF:-1,Boishakhi TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/boishakhi_576/boishakhi_576.m3u8?bitrate=1000000&channel=boishakhi_576&gp_id=
+#EXTINF:-1,Channel 9
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/channel_9_576/channel_9_576.m3u8?bitrate=1000000&channel=channel_9_576&gp_id=
+#EXTINF:-1,Mohona TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/mohona_tv_576/mohona_tv_576.m3u8?bitrate=1000000&channel=mohona_tv_576&gp_id=
+#EXTINF:-1,My TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/my_tv_576/my_tv_576.m3u8?bitrate=1000000&channel=my_tv_576&gp_id=
+#EXTINF:-1,Bijoy TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/bijoy_tv_576/bijoy_tv_576.m3u8?bitrate=1000000&channel=bijoy_tv_576&gp_id=
+#EXTINF:-1,Asian TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/asian_tv_hd_576/asian_tv_hd_576.m3u8?bitrate=1000000&channel=asian_tv_hd_576&gp_id=
+#EXTINF:-1,Bangla TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/bangla_tv_hd_576/bangla_tv_hd_576.m3u8?bitrate=1000000&channel=bangla_tv_hd_576&gp_id=
+#EXTINF:-1,Desh TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/desh_tv_576/desh_tv_576.m3u8?bitrate=1000000&channel=desh_tv_576&gp_id=
+#EXTINF:-1,Nagorik TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/nagorik_tv_hd_576/nagorik_tv_hd_576.m3u8?bitrate=1000000&channel=nagorik_tv_hd_576&gp_id=
+#EXTINF:-1,Nexus TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/nexus_tv_576/nexus_tv_576.m3u8?bitrate=1000000&channel=nexus_tv_576&gp_id=
+#EXTINF:-1,Ekushey TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ekushey_tv_576/ekushey_tv_576.m3u8?bitrate=1000000&channel=ekushey_tv_576&gp_id=
+#EXTINF:-1,Rajdhani TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/rajdhani_tv_576/rajdhani_tv_576.m3u8?bitrate=1000000&channel=rajdhani_tv_576&gp_id=
+#EXTINF:-1,Toffee Drama
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/toffee_drama_576/toffee_drama_576.m3u8?bitrate=1000000&channel=toffee_drama_576&gp_id=
+#EXTINF:-1,BTV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/btv_hd_576/btv_hd_576.m3u8?bitrate=1000000&channel=btv_hd_576&gp_id=
+#EXTINF:-1,BTV World
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/btv_world_576/btv_world_576.m3u8?bitrate=1000000&channel=btv_world_576&gp_id=
+#EXTINF:-1,BTV Chattagram
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/btv_ctg_576/btv_ctg_576.m3u8?bitrate=1000000&channel=btv_ctg_576&gp_id=
+#EXTINF:-1,Sangsad TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/btv_sangshodh_576/btv_sangshodh_576.m3u8?bitrate=1000000&channel=btv_sangshodh_576&gp_id=
 
 
+#EXTINF:-1,Zee Bangla Cinema
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_cinema_576/zee_bangla_cinema_576.m3u8?bitrate=1000000&channel=zee_bangla_cinema_576&gp_id=
+#EXTINF:-1,Colors Bangla Cinema
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/colors_bangla_cinema_576/colors_bangla_cinema_576.m3u8?bitrate=1000000&channel=colors_bangla_cinema_576&gp_id=
+#EXTINF:-1,Movie Bangla
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/movie_bangla_576/movie_bangla_576.m3u8?bitrate=1000000&channel=movie_bangla_576&gp_id=
+#EXTINF:-1,Toffee Movie
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sports_live_01_576/sports_live_01_576.m3u8?bitrate=1000000&channel=sports_live_01_576&gp_id=
 
 
+#EXTINF:-1,Sony Pix HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_pix_hd_576/sony_pix_hd_576.m3u8?bitrate=1000000&channel=sony_pix_hd_576&gp_id=
+#EXTINF:-1,Sony Pix
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_pix_576/sony_pix_576.m3u8?bitrate=1000000&channel=sony_pix_576&gp_id=
+#EXTINF:-1,I Film
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/iflim_english_576/iflim_english_576.m3u8?bitrate=1000000&channel=iflim_english_576&gp_id=
+#EXTINF:-1,Lotus Macau
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/lotus_macau_576/lotus_macau_576.m3u8?bitrate=1000000&channel=lotus_macau_576&gp_id=
+#EXTINF:-1,Zee Cinema HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_cinema_hd_576/zee_cinema_hd_576.m3u8?bitrate=1000000&channel=zee_cinema_hd_576&gp_id=
+#EXTINF:-1,B4U Movies
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/b4u_movies_576/b4u_movies_576.m3u8?bitrate=1000000&channel=b4u_movies_576&gp_id=
+#EXTINF:-1,Zee Action
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_action_576/zee_action_576.m3u8?bitrate=1000000&channel=zee_action_576&gp_id=
+#EXTINF:-1,Zee Bollywood
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bolly_576/zee_bolly_576.m3u8?bitrate=1000000&channel=zee_bolly_576&gp_id=
+
+
+#EXTINF:-1,Zee Cafe HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_cafe_hd_576/zee_cafe_hd_576.m3u8?bitrate=1000000&channel=zee_cafe_hd_576&gp_id=
+#EXTINF:-1,Colors Infinity
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/colors_infinity_hd_576/colors_infinity_hd_576.m3u8?bitrate=1000000&channel=colors_infinity_hd_576&gp_id=
+#EXTINF:-1,Comedy Central
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/comedy_central_hd_576/comedy_central_hd_576.m3u8?bitrate=1000000&channel=comedy_central_hd_576&gp_id=
+
+
+#EXTINF:-1,Sony Aath
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_aath_576/sony_aath_576.m3u8?bitrate=1000000&channel=sony_aath_576&gp_id=
 #EXTINF:-1,Zee Bangla
 https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_576/zee_bangla_576.m3u8?bitrate=1000000&channel=zee_bangla_576&gp_id=
+#EXTINF:-1,Colors Bangla
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/colors_b_576/colors_b_576.m3u8?bitrate=1000000&channel=colors_b_576&gp_id=
+
+
+#EXTINF:-1,Sony Max HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/set_max_hd_576/set_max_hd_576.m3u8?bitrate=1000000&channel=set_max_hd_576&gp_id=
+#EXTINF:-1,Sony Max
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_max_576/sony_max_576.m3u8?bitrate=1000000&channel=sony_max_576&gp_id=
+#EXTINF:-1,Sony Entertainment HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_entertainmnt_hd_576/sony_entertainmnt_hd_576.m3u8?bitrate=1000000&channel=sony_entertainmnt_hd_576&gp_id=
+#EXTINF:-1,Sony Entertainment
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_entertainment_576/sony_entertainment_576.m3u8?bitrate=1000000&channel=sony_entertainment_576&gp_id=
+#EXTINF:-1,Sony Sab HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_sab_hd_576/sony_sab_hd_576.m3u8?bitrate=1000000&channel=sony_sab_hd_576&gp_id=
+#EXTINF:-1,Sony Sab
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_sab_576/sony_sab_576.m3u8?bitrate=1000000&channel=sony_sab_576&gp_id=
+#EXTINF:-1,Sony Max 2
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_max_2_576/sony_max_2_576.m3u8?bitrate=1000000&channel=sony_max_2_576&gp_id=
+#EXTINF:-1,Sony Wah
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_wah_576/sony_wah_576.m3u8?bitrate=1000000&channel=sony_wah_576&gp_id=
+#EXTINF:-1,Sony Pal
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_pal_576/sony_pal_576.m3u8?bitrate=1000000&channel=sony_pal_576&gp_id=
+#EXTINF:-1,Zee TV HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_tv_hd_576/zee_tv_hd_576.m3u8?bitrate=1000000&channel=zee_tv_hd_576&gp_id=
+#EXTINF:-1,Zee Anmol
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_anmol_576/zee_anmol_576.m3u8?bitrate=1000000&channel=zee_anmol_576&gp_id=
+#EXTINF:-1,Colors
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/colors_576/colors_576.m3u8?bitrate=1000000&channel=colors_576&gp_id=
+#EXTINF:-1,Colors Rishtey
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/colors_rishtey_576/colors_rishtey_576.m3u8?bitrate=1000000&channel=colors_rishtey_576&gp_id=
+#EXTINF:-1,And TV HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/and_tv_hd_576/and_tv_hd_576.m3u8?bitrate=1000000&channel=and_tv_hd_576&gp_id=
+#EXTINF:-1,And Picture HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/and_picture_hd_576/and_picture_hd_576.m3u8?bitrate=1000000&channel=and_picture_hd_576&gp_id=
+
+
+#EXTINF:-1,Zoom
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zoom_tv_576/zoom_tv_576.m3u8?bitrate=1000000&channel=zoom_tv_576&gp_id=
+#EXTINF:-1,B4U Music
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/b4umusic_576/b4umusic_576.m3u8?bitrate=1000000&channel=b4umusic_576&gp_id=
+#EXTINF:-1,MTV Beats HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/mtv_beats_hd_576/mtv_beats_hd_576.m3u8?bitrate=1000000&channel=mtv_beats_hd_576&gp_id=
+#EXTINF:-1,MB Music
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/movie_b_music_576/movie_b_music_576.m3u8?bitrate=1000000&channel=movie_b_music_576&gp_id=
+#EXTINF:-1,MTV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/mtv_576/mtv_576.m3u8?bitrate=1000000&channel=mtv_576&gp_id=
+#EXTINF:-1,Zing
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zing_sd_576/zing_sd_576.m3u8?bitrate=1000000&channel=zing_sd_576&gp_id=
+#EXTINF:-1,VH1 HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/vh1_hd_576/vh1_hd_576.m3u8?bitrate=1000000&channel=vh1_hd_576&gp_id=
+
+
+#EXTINF:-1,Nick
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/nick_576/nick_576.m3u8?bitrate=1000000&channel=nick_576&gp_id=
+#EXTINF:-1,Cartoon Network HD+
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/cartoon_network_hd_576/cartoon_network_hd_576.m3u8?bitrate=1000000&channel=cartoon_network_hd_576&gp_id=
+#EXTINF:-1,Cartoon Network
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/cartoon_network_sd_576/cartoon_network_sd_576.m3u8?bitrate=1000000&channel=cartoon_network_sd_576&gp_id=
+#EXTINF:-1,Sony Yay
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_yay_576/sony_yay_576.m3u8?bitrate=1000000&channel=sony_yay_576&gp_id=
+#EXTINF:-1,Sonic
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonic_576/sonic_576.m3u8?bitrate=1000000&channel=sonic_576&gp_id=
+#EXTINF:-1,Discovery Kids
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/discovery_kids_576/discovery_kids_576.m3u8?bitrate=1000000&channel=discovery_kids_576&gp_id=
+#EXTINF:-1,Nick Junior
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/nick_junior_576/nick_junior_576.m3u8?bitrate=1000000&channel=nick_junior_576&gp_id=
+#EXTINF:-1,Pogo
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/pogo_sd_576/pogo_sd_576.m3u8?bitrate=1000000&channel=pogo_sd_576&gp_id=
+
+
+#EXTINF:-1,Quran TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/quran_tv_576/quran_tv_576.m3u8?bitrate=1000000&channel=quran_tv_576&gp_id=
+#EXTINF:-1,Sunnah TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sunnah_tv_576/sunnah_tv_576.m3u8?bitrate=1000000&channel=sunnah_tv_576&gp_id=
+
+
+
+
+#EXTINF:-1,Star Gold
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/star_gold_576/star_gold_576.m3u8?bitrate=1000000&channel=star_gold_576&gp_id=
 
