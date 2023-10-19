@@ -56,7 +56,7 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1,Sky Cricket
 https://mhdtvsports.co.in/crichd/stream.php?id=skyscric&e=.m3u8|referer:https://mhdtvsports.co.in/crichd/?watch=skyscric
 #EXTINF:-1,Willow Extra
-https://mhdtvsports.co.in/crichd/stream.php?id=willowextra&e=.m3u8
+https://mhdtvsports.co.in/crichd/stream.php?id=willowextra&e=.m3u8|referer:https://mhdtvsports.co.in/crichd/?watch=skyscric
 #EXTINF:-1,TLT
 http://cdn.live247stream.com/thelight/tv/playlist.m3u8
 #EXTINF:-1,Toffee
