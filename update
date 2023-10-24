@@ -57,14 +57,6 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 
 #EXTINF:-1,Astro Cricket
 http://watchindia.net:8880/live/94580/11406/2174.ts
-#EXTINF:-1,Astro
-https://ddh2.vipboxtv.stream/ddh2/premium370/tracks-v1a1/mono.m3u8|User-Agent=android&Referer=https://superntuplay.xyz/.m3u8
-#EXTINF:-1,S Cricket
-https://ddh2.vipboxtv.stream/ddh2/premium368/tracks-v1a1/mono.m3u8|User-Agent=android&Referer=https://superntuplay.xyz/.m3u8
-#EXTINF:-1,Fox
-https://msrsagar.vipboxtv.stream/ddy5/premium369/tracks-v1a1/mono.m3u8|user-agent=msr&referer=https://superntuplay.xyz/.m3u8
-#EXTINF:-1,S Cricket
-http://xtv.ooo:8080//live/50187198618/884815765/353949.ts
 #EXTINF:-1,Star Sports 1
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 #EXTINF:-1,Sky Sports 1
