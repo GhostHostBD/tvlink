@@ -14,7 +14,7 @@ http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sports 1
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/m3u8
 
-#EXTINF:-1,Sky Sport Cricket
+#EXTINF:-1,Sky Cricket
 https://sky.hlsjs.ru/sky/premium65/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1,Toffee
