@@ -1,10 +1,12 @@
 #EXTM3U
-#EXTINF:-1,Sports e3
+#EXTINF:-1,ESPN+ e3
 https://sportsleading.online/live/stream_e3.m3u8
-#EXTINF:-1,Sports e1
+#EXTINF:-1,ESPN+ e1
 https://sportsleading.online/live/stream_e1.m3u8
-#EXTINF:-1,Sports e2
+#EXTINF:-1,ESPN+ e2
 https://sportsleading.online/live/stream_e2.m3u8
+#EXTINF:-1,TLT
+http://cdn.live247stream.com/thelight/tv/playlist.m3u8
 #EXTINF:-1 ,Astro cricket
 http://103.175.242.10:8080/ASTRO_Cricket/index.m3u8
 #EXTINF:-1 ,GAZI TV
@@ -49,8 +51,7 @@ http://test-otv2.ftpbd.net/streams/110/index.m3u8
 http://test-otv2.ftpbd.net/streams/121/index.m3u8
 #EXTINF:-1,PTV Sports
 http://175.107.244.52:4457/play/a08g/index.m3u8
-#EXTINF:-1,TLT
-http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+
 
 
 
@@ -100,19 +101,14 @@ http://10.192.0.3:1001/tv_channel_7/index.m3u8
 #EXTINF:-1,Mixed 8
 http://10.192.0.3:1001/tv_channel_8/index.m3u8
 
-#EXTINF:-1,Sports e1
-https://sportsleading.online/live/stream_e1.m3u8
-#EXTINF:-1,Sports e2
-https://sportsleading.online/live/stream_e2.m3u8
-#EXTINF:-1,Sports e3
-https://sportsleading.online/live/stream_e3.m3u8
-#EXTINF:-1,Sports 1
+
+#EXTINF:-1,ESPN+ 1
 https://sportsleading.online/live/stream_1.m3u8
-#EXTINF:-1,Sports 2
+#EXTINF:-1,ESPN+ 2
 https://sportsleading.online/live/stream_2.m3u8
-#EXTINF:-1,Sports 3
+#EXTINF:-1,ESPN+ 3
 https://sportsleading.online/live/stream_3.m3u8
-#EXTINF:-1,Sports f1
+#EXTINF:-1,ESPN+ f1
 https://sportsleading.online/live/stream_f1.m3u8
 
 
