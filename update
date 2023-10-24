@@ -58,12 +58,6 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.
 #EXTINF:-1,Sky Sports 1
 https://donelfantastic.github.io/live/ssportsNZ.m3u8
 
-#EXTINF:-1,GTV
-http://103.193.72.74:8080/gtv/index.m3u8
-#EXTINF:-1,T Sports
-https://thetvnetwork.cc/nayeem69/cooltv.m3u8?id=10444
-#EXTINF:-1,PTV
-http://175.107.244.52:4457/play/a08g/index.m3u8
 
 
 #EXTINF:-1,Mixed 1
@@ -92,12 +86,6 @@ https://sportsleading.online/live/stream_2.m3u8
 https://sportsleading.online/live/stream_3.m3u8
 #EXTINF:-1,ESPN+ f1
 https://sportsleading.online/live/stream_f1.m3u8
-
-
-#EXTINF:-1,Sky Main Event
-https://linear007-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportsmainevent)/manifest_sd.mpd
-#EXTINF:-1,Sky Sports Cricket
-https://linear003-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportscricket)/manifest_sd.mpd
 
 
 #EXTINF:-1,Sports 18
