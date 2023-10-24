@@ -23,26 +23,20 @@ https://rabi.durbinlive.com/dw.php?m3u8=https://mprod-cdn.toffeelive.com/iccwc20
 #EXTINF:-1,RabbitholeBD
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/cHnTSIA25w7-6vTJrbghZr9u5tIZoyMpAGwLj0HEjPd6842ft_VvPNIi8BHtdm-9-rRdGv_NS1V3sODJHTepWg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 
-#EXTINF:-1,Astro Cricket
-https://tvs1.aynaott.com/astrocrickethd/index.m3u8?hdnts=st=1697272373~exp=1697315573~acl=/*~data=45.61.146.183-WEB~hmac=c1d7e5f3cd91918ccf84e685fa09a9aa54c8d53b2a343d252920f55ac0ee5cda
 
 #EXTINF:-1,T Sports
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1698134580~exp=1698177780~acl=/*~data=45.61.146.183-WEB~hmac=e52d220bf297eda557efaba8b02c01f9bddc4bf092e19a4d6c21f34116882d35
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1698149147~exp=1698192347~acl=/*~data=45.61.146.183-WEB~hmac=c480c21a7f641dce1252488f697c28837c50bf40772f50207efbc9a1f850a55c
 
 #EXTINF:-1,GTV
-https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1698134528~exp=1698177728~acl=/*~data=45.61.146.183-WEB~hmac=98433b071e1fd89a04547f358dd343fcac310068b4c9785397ed5169c8814df5
+https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1698149195~exp=1698192395~acl=/*~data=45.61.146.183-WEB~hmac=71913632165a39a18159aa5856de3f4dddb9e330642fbed08d684fd4ef0b9fad
 
-#EXTINF:-1,A Sports
-https://tvs1.aynaott.com/asports/tracks-v1a1/mono.m3u8?hdnts=st=1697287338~exp=1697330538~acl=/*~data=45.61.146.183-WEB~hmac=5291b02301c83c49bbee2128e2cb05c84831cebdb7beb34030209c35f82db3ac
 
 #EXTINF:-1,PTV
-https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1698134650~exp=1698177850~acl=/*~data=45.61.146.183-WEB~hmac=67b90ebdaef022598bb38f564e13ba084a109316e1de970eb405e1be08ad9414
+https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1698149312~exp=1698192512~acl=/*~data=45.61.146.183-WEB~hmac=45d2ebb247d6e3eead8f8885d2d4f7de19306e782c86d151247e9e1ff6d3566c
 
 #EXTINF:-1,PTV
 https://d2.ainakwalajeen.com:999/hls/ptvpk.m3u8?md5=rO6UhHYjoroUOFT7slqvkQ&expires=1698142211
 
-#EXTINF:-1,Star Sports 1
-https://tvs1.aynaott.com/sspts1/index.m3u8?hdnts=st=1697270436~exp=1697313636~acl=/*~data=45.61.146.183-WEB~hmac=72806f9a0a1eb58f876205501f6053e5420b4c814c7c7a734f390be4e28a1433
 
 #EXTINF:-1,Star Sports 1
 https://uk1.ainakwalajeen.com:999/hls/star1in.m3u8?md5=U7BZEEWTM1Kim6ZDq6iwLQ&expires=1698142299
