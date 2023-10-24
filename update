@@ -85,7 +85,8 @@ https://webudit.vipboxtv.stream/lb/premium598/index.m3u8?|Referer=https://stream
 #EXTINF:-1,Sony Liv
 https://dai.google.com/linear/hls/event/z5h4-ZCoS7ayPKfqoyrzoA/master.m3u8
 
-
+#EXTINF:-1,PTV Sports
+http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1,GTV
 http://103.193.72.74:8080/gtv/index.m3u8
 #EXTINF:-1,T Sports
@@ -172,6 +173,10 @@ https://m3.ballnaja.com/live/assp3/chunks.m3u8
 #EXTINF:-1,Astro Super Sports 4
 https://m3.ballnaja.com/live/assp4/chunks.m3u8
 
+#EXTINF:-1,True Sports 1
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1,True Sports 2
+https://ctrl.laotv.la/live/TSport2/index.m3u8
 
 #EXTINF:-1,ESPN 1
 http://151.248.16.100:4444/ESPN1/index.m3u8
