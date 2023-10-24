@@ -11,10 +11,11 @@ http://103.175.242.10:8080/ASTRO_Cricket/index.m3u8
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T Sports
 http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1,Sports 1
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/m3u8
+
+#EXTINF:-1,Sky Sport Cricket
+https://sky.hlsjs.ru/sky/premium65/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 #EXTINF:-1,Toffee
 https://rabi.durbinlive.com/dw.php?m3u8=https://mprod-cdn.toffeelive.com/iccwc2023/match-1/master_1000.m3u8
