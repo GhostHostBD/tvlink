@@ -12,6 +12,7 @@ http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T Sports
 http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 
+
 #EXTINF:-1,Sports 1
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/m3u8
 
@@ -22,22 +23,26 @@ https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/cHnTSIA25w7-6v
 https://tvs1.aynaott.com/astrocrickethd/index.m3u8?hdnts=st=1697272373~exp=1697315573~acl=/*~data=45.61.146.183-WEB~hmac=c1d7e5f3cd91918ccf84e685fa09a9aa54c8d53b2a343d252920f55ac0ee5cda
 
 #EXTINF:-1,T Sports
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1698075500~exp=1698118700~acl=/*~data=45.61.146.183-WEB~hmac=1ffdd0a0e7e7ff30662ef0328c046d7ca18f74507623fbdbd94e72c66d6795cf
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1698134580~exp=1698177780~acl=/*~data=45.61.146.183-WEB~hmac=e52d220bf297eda557efaba8b02c01f9bddc4bf092e19a4d6c21f34116882d35
 
 #EXTINF:-1,GTV
-https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1697699187~exp=1697742387~acl=/*~data=45.61.146.183-WEB~hmac=5912d900f684d7e1d87ddba00f284578aa9ad90b61a6680963c652f0eeea28e6
+https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1698134528~exp=1698177728~acl=/*~data=45.61.146.183-WEB~hmac=98433b071e1fd89a04547f358dd343fcac310068b4c9785397ed5169c8814df5
 
 #EXTINF:-1,A Sports
 https://tvs1.aynaott.com/asports/tracks-v1a1/mono.m3u8?hdnts=st=1697287338~exp=1697330538~acl=/*~data=45.61.146.183-WEB~hmac=5291b02301c83c49bbee2128e2cb05c84831cebdb7beb34030209c35f82db3ac
 
 #EXTINF:-1,PTV
-https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1697698166~exp=1697741366~acl=/*~data=45.61.146.183-WEB~hmac=e336635eff8889ad30581efcae3f52a6f259b045f940562a6d2e487731b00fd3
+https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1698134650~exp=1698177850~acl=/*~data=45.61.146.183-WEB~hmac=67b90ebdaef022598bb38f564e13ba084a109316e1de970eb405e1be08ad9414
 
 #EXTINF:-1,Star Sports
 https://tvs1.aynaott.com/sspts1/index.m3u8?hdnts=st=1697270436~exp=1697313636~acl=/*~data=45.61.146.183-WEB~hmac=72806f9a0a1eb58f876205501f6053e5420b4c814c7c7a734f390be4e28a1433
 
 #EXTINF:-1,Ten Sports
 http://bluestartv.biz:80/play/link/b0fa94bc-cd77-429a-8c17-93d23c1c91ba/eyJpdiI6Ik12Nm5JVkpvL0ZJcEc4aW1FejBoUUE9PSIsInZhbHVlIjoicGE3WkFRS1JFT3QrRG16R2JUZkQ1VG5hSzF2Rnd5WGVCcjhxSXpiRFVvS0cvUnEwbVpJRFUvVjdranVXRzBZNSIsIm1hYyI6ImQyMDliMmMwM2JkYjQ4NmRmM2FlZTVlZDJiOWQ2NGQ2N2RiMGEwODYzYzlmYThhNjI3MjlmNGI5N2E5NGRkMzUiLCJ0YWciOiIifQ==.m3u8
+
+#EXTINF:-1,Sky Cricket
+https://buc01.quest123.top:8088/live/webcricn02/playlist.m3u8?vidictid=196548656832&id=115656&pk=88a0de4b3894b5c01151def0b6401f43da5d979082c60233e6b72c56725c2e5695c1740d13d5334636bb3eb38107b35ee3ffa3747bd556482ff7a0854e2934a9
+
 
 #EXTINF:-1,GTV
 https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8
@@ -51,8 +56,14 @@ http://manik-sportsiptv.zapto.org:8080/live/tsports/index.m3u8
 http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:-1,T Sports
 http://live.himel-himu.tk/TSports-HD-Bdix/hls/Himel-Op.m3u8
+#EXTINF:-1,T Sports
+https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1,Star sports 1
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#EXTINF:-1,Star Sports 1
+http://test-otv2.ftpbd.net/streams/110/index.m3u8
+#EXTINF:-1,Star Sports 2
+http://test-otv2.ftpbd.net/streams/121/index.m3u8
 #EXTINF:-1,PTV Sports
 http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1,Sky Cricket
