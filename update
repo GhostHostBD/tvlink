@@ -41,7 +41,7 @@ http://103.7.4.54/Gazi-TV/index.m3u8?token=7du8JE0_2OUbF0
 http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:-1,T Sports
 https://live.tsports.com/live/tsports_live_720/index.m3u8
-#EXTINF:-1,Star sports 1
+#EXTINF:-1,Star Sports 1
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1,Star Sports 1
 http://test-otv2.ftpbd.net/streams/110/index.m3u8
@@ -49,16 +49,9 @@ http://test-otv2.ftpbd.net/streams/110/index.m3u8
 http://test-otv2.ftpbd.net/streams/121/index.m3u8
 #EXTINF:-1,PTV Sports
 http://175.107.244.52:4457/play/a08g/index.m3u8
-#EXTINF:-1,Sky Cricket
-https://mhdtvsports.co.in/crichd/stream.php?id=skyscric&e=.m3u8|referer:https://mhdtvsports.co.in/crichd/?watch=skyscric
-#EXTINF:-1,Willow Extra
-https://mhdtvsports.co.in/crichd/stream.php?id=willowextra&e=.m3u8|referer:https://mhdtvsports.co.in/crichd/?watch=skyscric
 #EXTINF:-1,TLT
 http://cdn.live247stream.com/thelight/tv/playlist.m3u8
-#EXTINF:-1,Toffee
-http://live.himel-himu.tk/mprod-cdn.toffeelive.com/iccwc2023/match-1/hls/Himel-Op.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1697231468:KeyName=prod_live_events:Signature=fnVpUX9SQUl5oTrxwefydCYlR-A8uRY0ACx65Mna31CGVnrDp2bHHjvlClSZkut9qQJ4l2K04ZKWj7KB6WK5Aw&auth=Himel-Op
-#EXTINF:-1,Toffee
-http://live.himel-himu.tk/mprod-cdn.toffeelive.com/iccwc2023/match-1/hls/Himel-Op.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1697745440:KeyName=prod_live_events:Signature=aaYd95w97PZ8BR24QiRlrfw3S-DDlJo9EFMYCYZyZUerh_zmQG3CfzGTMz4meYOn9xxwgHx3IM_nC7obxudFBg&auth=Himel-Op
+
 
 
 #EXTINF:-1,Astro Cricket
