@@ -13,15 +13,8 @@ http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sports 1
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/m3u8
-
 #EXTINF:-1,Sky Cricket
 https://sky.hlsjs.ru/sky/premium65/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-
-#EXTINF:-1,Toffee
-https://rabi.durbinlive.com/dw.php?m3u8=https://mprod-cdn.toffeelive.com/iccwc2023/match-1/master_1000.m3u8
-
-#EXTINF:-1,RabbitholeBD
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/cHnTSIA25w7-6vTJrbghZr9u5tIZoyMpAGwLj0HEjPd6842ft_VvPNIi8BHtdm-9-rRdGv_NS1V3sODJHTepWg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 
 
 #EXTINF:-1,T Sports
@@ -30,13 +23,11 @@ https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1698149147~exp
 #EXTINF:-1,GTV
 https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1698149195~exp=1698192395~acl=/*~data=45.61.146.183-WEB~hmac=71913632165a39a18159aa5856de3f4dddb9e330642fbed08d684fd4ef0b9fad
 
-
 #EXTINF:-1,PTV
 https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1698149312~exp=1698192512~acl=/*~data=45.61.146.183-WEB~hmac=45d2ebb247d6e3eead8f8885d2d4f7de19306e782c86d151247e9e1ff6d3566c
 
 #EXTINF:-1,PTV
 https://d2.ainakwalajeen.com:999/hls/ptvpk.m3u8?md5=rO6UhHYjoroUOFT7slqvkQ&expires=1698142211
-
 
 #EXTINF:-1,Star Sports 1
 https://uk1.ainakwalajeen.com:999/hls/star1in.m3u8?md5=U7BZEEWTM1Kim6ZDq6iwLQ&expires=1698142299
