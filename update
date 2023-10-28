@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1,T Sports
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1698476072~exp=1698519272~acl=/*~data=45.61.146.183-WEB~hmac=fafefbc2801f63db929724ca52b4db0f9df39ba1a63bf483f0a6fa819f6cf613
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1698490055~exp=1698533255~acl=/*~data=45.61.146.183-WEB~hmac=8d373cd9c0dd3e16599dd6417ab6e89adf91c2aeef79e00df4d4e54e2c809dfe
 
 #EXTINF:-1,GTV
-https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1698476262~exp=1698519462~acl=/*~data=45.61.146.183-WEB~hmac=59c961e12aa839d99053fb19601ffaf70e439dcaf0551adfb9697df1ab16f0f0
+https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1698490127~exp=1698533327~acl=/*~data=45.61.146.183-WEB~hmac=f53b2da21efa72157350d5ee81223a9597ac19979751211fe0e38bcc3dabe16c
 
 #EXTINF:-1,Asports
-https://tvs1.aynaott.com/asports/tracks-v1a1/mono.m3u8?hdnts=st=1698476120~exp=1698519320~acl=/*~data=45.61.146.183-WEB~hmac=4da6cc7f24651967b17de28aca2bd37c673a773b52fafeacd6d298fe2e43ca25
+https://tvs1.aynaott.com/asports/tracks-v1a1/mono.m3u8?hdnts=st=1698490304~exp=1698533504~acl=/*~data=45.61.146.183-WEB~hmac=44a0897be8e0160773d1ce6f3fce0cec1b91610ce7ae5ca735bf9606c0c6e995
 
-#EXTINF:-1,PTV
-https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1698476024~exp=1698519224~acl=/*~data=45.61.146.183-WEB~hmac=7d589757dfe7221958d01a913bf704e730b7c627a66311d39bf376cea31b179f
+#EXTINF:-1,PTV Sports
+https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1698490194~exp=1698533394~acl=/*~data=45.61.146.183-WEB~hmac=4da0bf14eeed2883bddd7e09c2e1094f14dbc856859cc5c959c38a65ba4aef27
 
 
 
