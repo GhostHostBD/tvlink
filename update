@@ -1,12 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Sky Cricket
-https://sports.techpriyo.com/master.php?channel_id=skyscric
-#EXTINF:-1,Ten sports
-https://sports.techpriyo.com/master.php?channel_id=tenspk
-#EXTINF:-1,PTV Sports
-https://sports.techpriyo.com/master.php?channel_id=ptvpk
-#EXTINF:-1,Sky Sports main event
-https://sports.techpriyo.com/master.php?channel_id=skysme
+
 #EXTINF:-1,Sky Cricket
 https://redditfootybite.xyz/live/streamfreecric.m3u8
 #EXTINF:-1,Sky Cricket
