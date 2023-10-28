@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1,SSC 1
+https://bee.fun:2087/ssc1/index.m3u8
+#EXTINF:-1,SSC 2
+https://bee.fun:2087/ssc2/index.m3u8
+#EXTINF:-1,SSC 3
+https://bee.fun:2087/ssc3/index.m3u8
+#EXTINF:-1,Ssc sport 1
+https://bee.fun:2083/ssport1/index.m3u8
+#EXTINF:-1,Ssc sport 2
+https://bee.fun:2083/ssport2/index.m3u8
+#EXTINF:-1,Ssc sport 3
+https://bee.fun:2083/ssport3/index.m3u8
+#EXTINF:-1,Ssc sport 4
+https://bee.fun:2083/ssport4/index.m3u8
+#EXTINF:-1,Ssc sport 5
+https://bee.fun:2083/ssport5/index.m3u8
+#EXTINF:-1,Ssc sport 6
+https://bee.fun:2083/ssport6/index.m3u8
+#EXTINF:-1,Ssc sport 7
+https://bee.fun:2083/ssport7/index.m3u8
+#EXTINF:-1,Ssc sport 8
+https://bee.fun:2083/ssport8/index.m3u8
+#EXTINF:-1,Ssc sport 9
+https://bee.fun:2083/ssport9/index.m3u8
+#EXTINF:-1,Ssc sport 1
+https://bee.fun:2087/ssport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ssc sport 2
+https://bee.fun:2087/ssport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ssc sport 3
+https://bee.fun:2087/ssport3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ssc sport 4
+https://bee.fun:2087/ssport4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ssc sport 5
+https://bee.fun:2087/ssport5/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ssc sport 6
+https://bee.fun:2087/ssport6/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ssc sport 7
+https://bee.fun:2087/ssport7/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ssc sport 8
+https://bee.fun:2087/ssport8/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ssc sport 9
+https://bee.fun:2087/ssport9/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ssc extra1
+https://bee.fun:2087/sscextra1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Scc extra2
+https://bee.fun:2087/sscextra1/tracks-v1a1/mono.m3u8
