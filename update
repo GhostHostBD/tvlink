@@ -1,19 +1,10 @@
 #EXTM3U
-
-#EXTINF:-1,T Sports
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1698490055~exp=1698533255~acl=/*~data=45.61.146.183-WEB~hmac=8d373cd9c0dd3e16599dd6417ab6e89adf91c2aeef79e00df4d4e54e2c809dfe
-
-#EXTINF:-1,GTV
-https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1698490127~exp=1698533327~acl=/*~data=45.61.146.183-WEB~hmac=f53b2da21efa72157350d5ee81223a9597ac19979751211fe0e38bcc3dabe16c
-
-#EXTINF:-1,Asports
-https://tvs1.aynaott.com/asports/tracks-v1a1/mono.m3u8?hdnts=st=1698490304~exp=1698533504~acl=/*~data=45.61.146.183-WEB~hmac=44a0897be8e0160773d1ce6f3fce0cec1b91610ce7ae5ca735bf9606c0c6e995
-
-#EXTINF:-1,PTV Sports
-https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1698490194~exp=1698533394~acl=/*~data=45.61.146.183-WEB~hmac=4da0bf14eeed2883bddd7e09c2e1094f14dbc856859cc5c959c38a65ba4aef27
-
-
-
+#EXTINF:-1,ESPN+ e1
+https://hls.streambtw.com/live/stream_e1.m3u8
+#EXTINF:-1,ESPN+ e3
+https://hls.streambtw.com/live/stream_e3.m3u8
+#EXTINF:-1,ESPN+ e2
+https://hls.streambtw.com/live/stream_e2.m3u8
 #EXTINF:-1,TLT
 http://cdn.live247stream.com/thelight/tv/playlist.m3u8
 #EXTINF:-1 ,Astro cricket
