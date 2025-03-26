@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,TSports 1
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+#EXTINF:-1,TSports 2
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
